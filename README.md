@@ -4,7 +4,7 @@ A 3D third-person tide-puzzle adventure for Godot 4, by extraordinary. games.
 
 > *like the ocean, I am both soft and strong.*
 
-A tide-born spirit washes ashore on a coast where the old fairy tales have stopped finishing. Shift between **Soft** and **Strong**, raise and lower the tide, and carry each story to its ending.
+A sea-born spirit from the village under the bay goes ashore to a coast where the old fairy tales have stopped finishing. Quiet, luminous and bittersweet, in the spirit of *Nagi no Asukara*. Shift between **Soft** and **Strong**, raise and lower the tide, and carry each story to its ending.
 
 ![Character sheet](docs/concept/character_sheet.png)
 
@@ -12,6 +12,7 @@ A tide-born spirit washes ashore on a coast where the old fairy tales have stopp
 
 | Doc | Covers |
 |---|---|
+| [00 · Tone and feel](docs/00-tone-and-feel.md) | The *Nagi no Asukara* feeling: what we take, what we don't, seasonal arc |
 | [01 · Overview](docs/01-overview.md) | Pitch, pillars, audience, comparables |
 | [02 · Character bible](docs/02-character-bible.md) | The hero: look, personality, voice, expressions, modelling brief |
 | [03 · Core mechanics](docs/03-core-mechanics.md) | Soft/Strong, Breath, tide, Listen, the Unfinished, tuning numbers |

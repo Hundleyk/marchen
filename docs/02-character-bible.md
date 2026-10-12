@@ -9,7 +9,7 @@
 | **Name** | *Working name:* **Nix**, from the German *Nixe*, a water spirit of the Grimm tales. The sheet leaves the name blank. |
 | **Pronouns** | they/them (per sheet) |
 | **Age** | Ageless; reads as a young adult |
-| **Species** | Tide-born: a spirit the sea shaped into a person so it could go ashore |
+| **Species** | Sea-folk from Perlgrund, the village under the bay; breathes through the bubbles on their skin |
 | **Role** | Story-mender, the one who carries stuck tales to their endings |
 | **Motto** | *like the ocean, I am both soft and strong* |
 
@@ -31,10 +31,15 @@
 * **Formal with land customs,** slightly wrong in charming ways (bows to doors, thanks rain).
 * **Warm but direct.** Kind does not mean quiet; Nix will say the true thing.
 * **When angry, the sea is angry.** Rare, and the world reacts (waves rise, light cools).
+* **Keeps feelings close.** Says the true thing about others, rarely about themself. Their own homesickness and fear only surface in Listen mode or in quiet moments.
 
 ## Backstory
 
-Tales are how the land talks to the sea. When the coast's stories stopped finishing, the tide stopped knowing when to turn, and the sea began to grow restless. It shaped Nix from foam, shell and memory and sent them ashore to find out why. Nix doesn't remember being born; they remember the first wave that carried them, and the sound of a story stopping mid-sentence.
+Nix grew up in **Perlgrund**, the village under the bay, where people breathe through the bubbles on their skin and the lanterns never go out. Sea-folk rarely go ashore; the land people are a story their elders tell, half warning and half longing.
+
+This summer the sea started cooling, and nobody below could say why. Nix was the one who noticed the songs of the shore towns had stopped mid-verse: the coast's tales weren't finishing. Without endings, the tide forgets when to turn. So Nix went up, alone, the first of their village in a generation to walk the shore.
+
+**Emotional core:** Nix loves both worlds and slowly realises that fixing the coast will change Perlgrund too. The question under the whole game is what they're willing to let end.
 
 ## Voice
 
