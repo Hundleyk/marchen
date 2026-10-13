@@ -23,6 +23,7 @@ Inspired by the real island divers and seafaring immigrants who built coastal to
 | [07 · Art and audio](docs/07-art-audio.md) | Visual style, two cultures' looks, music, sound |
 | [08 · Roadmap](docs/08-roadmap.md) | Milestones, Godot structure, risks, open questions |
 | [09 · Culture and daily life](docs/09-culture-and-daily-life.md) | Inspirations and respect rules, merfolk and human culture, the dockside tongue |
+| [10 · Exploration](docs/10-exploration.md) | Movement, discoveries, the map, how places open, each island |
 
 ## Status
 

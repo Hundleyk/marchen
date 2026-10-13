@@ -79,3 +79,4 @@ The diving culture is most closely inspired by the **haenyeo**, the women free-d
 | [07 · Art and audio](07-art-audio.md) | Visual style, camera, music, sound |
 | [08 · Roadmap](08-roadmap.md) | Milestones, Godot structure, open questions |
 | [09 · Culture and daily life](09-culture-and-daily-life.md) | Both cultures, the diving community, language, festivals, inspirations |
+| [10 · Exploration](10-exploration.md) | Movement, discoveries, the map, how places open, each island |

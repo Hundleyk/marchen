@@ -126,6 +126,9 @@ Breaking the rules is possible, but the community notices, and it costs belongin
 
 ## 2. Exploration
 
+Full detail (movement, discoveries, the map, how places open, each island) is in [10 · Exploration](10-exploration.md). Summary:
+
+
 * **On land:** third-person walking, climbing low walls, jumping between rocks and piers.
 * **In water:** full 3D swimming with fast dives and surface swimming.
 * **Between islands:** swim, catch a ride on a ferry or fishing boat, or (later) use a small boat of her own.
