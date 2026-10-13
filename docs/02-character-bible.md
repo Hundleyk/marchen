@@ -48,14 +48,9 @@ In merfolk culture, barnacles are how a life is written on the body. A barnacle 
 
 She grew up on **Coral Hollow**, a reef village far out past the islands, beyond the drop-off.
 
-**Why she left:** Coral Hollow is dying, for two reasons.
+**Why she left:** the water around Coral Hollow is slowly warming and the reef is fading. No one is to blame; it's just changing. Families have begun to wonder whether they'll need to move one day.
 
-1. **The water is warming.** For years the coral has been slowly bleaching and the fish have been leaving. Young merfolk began going to the islands to find work and send pearls home.
-2. **Someone is stripping it.** Lately whole sections of the reef have been torn away in the night, faster than any warming could do. Nobody at home knows why. *(The truth: the Harbour Pearl Company has worn out the near Pearl Banks and is secretly dredging the far reefs beyond the drop-off, including Coral Hollow. She learns this during the game.)*
-
-Her aunt Maren went to Brinehaven years ago and wrote that there was work for divers. Then the letters stopped. The hero goes to find work, send help home, and find out what happened to Maren.
-
-**The irony at the heart of the story:** the job she takes to save her home, diving for the Company, is part of what's destroying it.
+Her aunt Maren went to the islands years ago, and two years ago her letters stopped. Nix goes to Brinehaven to start a new life, to see whether the islands could be home for her family too, and to find out what happened to Maren. *(Maren is safe: she married a human fisherman and was afraid to tell the family. See [04](04-world-and-narrative.md).)*
 
 She arrives with a letter of introduction to the merfolk community, her aunt's last address, and the cluster of barnacles from home.
 
@@ -80,8 +75,8 @@ The six expressions from the reference sheet, used in dialogue portraits and on 
 | Happy | A friend made, a good dive, a festival moment |
 | Concerned | Low breath; someone in trouble; a tense meeting |
 | Surprised | Discoveries; strange human customs |
-| Sad | Letters from home; being turned away |
-| Angry | Injustice toward the merfolk; being underpaid or insulted |
+| Sad | Letters from home; missing the reef |
+| Angry | Rare: someone in danger; the elders being unfair to Maren |
 
 ## 3D modelling brief
 

@@ -6,17 +6,17 @@
 
 ## High concept
 
-A young mermaid leaves the sea to start a new life in **Brinehaven**, a human harbour town on a chain of islands. She finds work the only way merfolk usually can: as a diver, doing the deep, dangerous work humans can't. Between dives she explores the islands, finds her place in the small merfolk community at the edge of town, learns the dockside language, and slowly becomes part of a town that isn't sure it wants her.
+A young mermaid leaves her fading reef to start a new life in **Brinehaven**, a sunny white-stone town stacked up a cliffside on a chain of islands. She dives with the small merfolk community at the edge of town, explores the islands above and below the water, learns the town's words and ways, and searches for the aunt who stopped writing home. Through everyday life, she slowly learns to love a new place without losing the old one.
 
-**Pitch:** a cozy, story-driven island game about an immigrant mermaid diver, inspired by the real island divers and seafaring immigrants who built coastal towns around the world.
+**Pitch:** a cozy, story-driven island game about a mermaid making a new home: about culture, living through change, and learning to love through everyday life. Inspired by real island divers and seafaring immigrant communities.
 
 **Mood:** quiet, luminous and a little bittersweet. Sunlight through water, harbour towns at golden hour, small moments that matter.
 
 ## Story arc
 
-**Arrival → Work → Community → Conflict → Belonging**
+**Arrival → Settling → Two worlds → The storm → Belonging**
 
-She arrives with nothing but a letter of introduction. She earns her place as a diver, finds the merfolk community, gets caught up in the town's tensions over who the sea and the cove belong to, and helps both peoples find a way to share them. The game ends with the whole town celebrating the festival she brought from home.
+She arrives with a letter of introduction and an empty address where her aunt used to live. She settles into the town and the merfolk cove, finds her aunt living a hidden life between two worlds, helps both peoples through the worst storm in memory, and welcomes her own family when they arrive. The game ends with the whole town celebrating the festival she brought from home.
 
 ## Design pillars
 
@@ -24,17 +24,17 @@ She arrives with nothing but a letter of introduction. She earns her place as a 
 2. **Two cultures, both real.** The human town and the merfolk community each have their own customs, language, work and festivals. Neither is the "default."
 3. **Two halves, one world: the town and the water.** Players live both lives equally: the busy human town above and the merfolk world below. Each has places, people, work and stories the other doesn't, and the story constantly moves between them. See *Town and water* in [03 · Core mechanics](03-core-mechanics.md).
 4. **Belonging is earned, and shown.** Relationships, words learned and community built show up on her body (new barnacles) and in the town (the festival grows).
-5. **Honest, but hopeful.** The game doesn't pretend prejudice isn't there. The cozy feeling comes from community holding together, not from ignoring hardship.
+5. **A kind town, no villains.** Brinehaven is warm and welcoming. The challenges are about being new, living through change, and the sea itself, never about people being cruel.
 
 ## Historical inspiration
 
 The game draws on real patterns from island and seafaring immigrant communities:
 
-* **The hard water jobs:** immigrants were often hired for dangerous diving, whaling and fishing work, valued for their skill but underpaid and kept as outsiders.
+* **Water work:** immigrants often brought diving, fishing and sea skills that their new towns came to rely on.
 * **Mutual aid:** communities built halls, churches and aid societies to look after each other.
 * **Home festivals** that the host town eventually adopted as its own.
 * **Mixed dockside languages** born from people working side by side.
-* **Discrimination,** sometimes severe.
+* **Learning a new place** while keeping the old one alive.
 
 The diving culture is most closely inspired by the **haenyeo**, the women free-divers of Jeju Island, South Korea. Also the Japanese **ama** divers, the Greek sponge divers of Tarpon Springs, and the multicultural pearling town of Broome, Australia. See [09 · Culture and daily life](09-culture-and-daily-life.md) for how we use these respectfully.
 

@@ -3,24 +3,25 @@
 ## Visual style
 
 * **Look:** soft anime realism matching the v2 character reference: sculpted, painterly 3D characters against detailed, painted environments. Gentle rim light; soft shadows.
-* **Mood reference:** the light and atmosphere of *Nagi no Asukara*: bright, shimmering underwater scenes, caustics on sand, harbour towns at golden hour. We borrow the feeling, not the designs.
+* **Town reference:** the seaside town of Seafront in *NieR Replicant*: white and sand-coloured stone stacked up a sunny cliffside, endless stairs and terraces, a lighthouse above, turquoise water below, peaceful with a soft, timeless melancholy. We borrow the look and feeling, not the designs.
+* **Water reference:** the light of *Nagi no Asukara*: bright, shimmering underwater scenes and caustics on sand.
 * **Underwater is bright, not dark,** until you reach the drop-off. God-rays, drifting motes, fish moving like birds.
 * **Palette:** from the character reference: cream, blush, silver-blue, lilac, periwinkle, sea green, navy, deep slate, gold.
 
 ### Two cultures, two looks
 | | Human Brinehaven | Merfolk (the Shelf, Kelpcrown) |
 |---|---|---|
-| Materials | Wood, rope, tarred canvas, brick, painted signs | Shell, coral stone, woven kelp, pearl, driftwood |
-| Shapes | Square, stacked, upright | Round, spiralled, flowing |
-| Colours | Warm: rust, ochre, faded blue | Cool: lilac, sea green, nacre |
-| Light | Lamps and windows | Bioluminescent shells and lanterns on the water |
+| Materials | White and sand stone, plaster, blue-painted wood, terracotta, canvas awnings | Shell, coral stone, woven kelp, pearl, driftwood |
+| Shapes | Stacked cubes, arches, stairs and terraces | Round, spiralled, flowing |
+| Colours | Sunlit: white, sand, sky blue, terracotta, bougainvillea pink | Cool: lilac, sea green, nacre |
+| Light | Bright sun, deep shade under arches, warm lamps at dusk | Bioluminescent shells and lanterns on the water |
 
 As the story goes on, the two styles mix: merfolk shell lanterns on human porches, painted signs at the Shelf.
 
 ### Places
-* **Brinehaven:** a busy harbour town of stacked houses, net-lofts, piers on stilts, a lighthouse on the hill.
+* **Brinehaven:** white-stone houses stacked up a cliff, linked by stairs, arches and terraces; laundry lines and flower pots; a little harbour and beach below; the lighthouse on top. Sun-bleached, bright and quiet.
 * **The Shelf:** houses on stilts and in rock hollows, half in the water; nets and laundry; the Warming Ring's stone circle and fire on the shore.
-* **The Pearl Banks:** sandy shelves of oyster beds marked with stones and buoys.
+* **The Pearl Banks:** sandy shelves of shared harvest beds, marked with white stones and buoys.
 * **The Drowned Quarter:** sunken streets, doorways full of fish, a clock tower on its side.
 * **The Drop-off:** blue fading to black; the only truly dark place in the game. In winter, **marine snow** drifts down through it.
 * **Sea-sheen on her skin:** a shader parameter fades iridescence and adds a matte, slightly dusty look as she dries; it snaps back to glossy and shimmering when she's wet.
@@ -31,7 +32,7 @@ As the story goes on, the two styles mix: merfolk shell lanterns on human porche
 | 1 | Spring | Fresh greens, pale blue, cream |
 | 2 | Summer | High-key turquoise, white, coral |
 | 3 | Autumn | Amber, teal, long shadows |
-| 4 | Winter | Grey-blue, storms, warm lantern pools |
+| 4 | Winter | Grey-blue, the great storm, then calm silver light and warm lantern pools |
 | 5 | Spring | Blush, soft green, gold |
 
 ### Barnacles on the model
@@ -43,8 +44,8 @@ New barnacle clusters fade and grow in over a few seconds with a soft shimmer, t
 * Surfacing shot: camera dips to the waterline as she breaks the surface.
 
 ## Music
-* **Ensemble:** piano and strings for the emotional core, with harp, celesta and soft wordless voice.
-* **Two musical languages:** the human town gets accordion, guitar and fiddle; the merfolk get voice, glass and low drums. Over the game, the themes start borrowing from each other, and the finale combines both.
+* **Ensemble:** piano and strings for the emotional core, with harp, celesta, acoustic guitar and soft wordless voice. The town theme is sunny and a little wistful.
+* **Two musical languages:** the human town gets guitar, mandolin and accordion; the merfolk get voice, glass and low drums. Over the game, the themes start borrowing from each other, and the finale combines both.
 * **Underwater mix:** muffled and reverberant; crossing the waterline crossfades between the shore and sea mixes.
 * **The festival theme** begins as her humming alone in Act 1 and becomes the full combined ensemble in Act 5.
 

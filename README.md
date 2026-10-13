@@ -4,7 +4,7 @@ A 3D story-driven island life and exploration game for Godot 4, by extraordinary
 
 > *Ocean Child: sea, rebirth, connection.*
 
-A young mermaid leaves the sea to start a new life in Brinehaven, a human harbour town on a chain of islands. She works as a diver, explores the islands above and below the water, finds her place in the small merfolk community at the edge of town, and slowly becomes part of a town that isn't sure it wants her.
+A young mermaid leaves her fading reef to start a new life in Brinehaven, a sunny white-stone town on a chain of islands. She dives with the merfolk community, explores the islands above and below the water, and slowly learns to love a new place through everyday life, without losing the old one.
 
 Inspired by the real island divers and seafaring immigrants who built coastal towns around the world, especially the haenyeo divers of Jeju Island.
 

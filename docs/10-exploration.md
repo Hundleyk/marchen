@@ -51,7 +51,7 @@ The same place is different depending on:
 | **Time of day** | Dawn: divers and fishers out. Day: busy town. Dusk: lamplighters, the Warming Ring. Night: bioluminescence below; quiet streets; secret meetings |
 | **Season** | Spring: the divers' season opens. Summer: clear water, crowded harbour. Autumn: storms move sand, uncovering wrecks. Winter: marine snow, cold deep water, ice on the piers |
 | **Weather** | Rain: no drying, empty streets, fish come up. Fog: boats stay in; ghost stories. Storms: dangerous to swim; afterwards, new things washed ashore |
-| **Story** | Places change as the town changes: a shop that turned her away puts out a water basin; the council hall gets protest banners |
+| **Story** | Places change as the town changes: shops put out water basins for merfolk; the lower town is rebuilt after the storm |
 
 ---
 
@@ -119,7 +119,7 @@ Rare shells and pearls found exploring, used for festival lanterns and gifts (no
 | **Tide and time** | The sea caves at low tide; bioluminescent reef only at night |
 | **Seasons** | Spring opens the dive grounds; autumn storms uncover wrecks; winter cold blocks the deep without the elders' gift |
 | **Her boat** | Distant islands and night trips with human friends |
-| **Story** | The Drowned Quarter's sealed town hall opens in Act 3 |
+| **Story** | Ferrow's Reach and Maren's house open in Act 3; the Far Reefs open in Act 5 |
 
 ---
 
@@ -127,16 +127,16 @@ Rare shells and pearls found exploring, used for festival lanterns and gifts (no
 
 | Place | Above | Below | Special to find |
 |---|---|---|---|
-| **Brinehaven** | Harbour, market, rooftops, lighthouse hill, back alleys | Pilings forest under the piers, harbour floor full of lost things, drain tunnels | The secret meeting spot under the pier; the fisher's watch |
+| **Brinehaven** | White-stone stairs and terraces, the market square, rooftops, lighthouse hill, the beach below the cliffs | Pilings forest under the piers, harbour floor full of lost things, drain tunnels | The secret meeting spot under the pier; the fisher's watch |
 | **The Shelf** | Stilt houses, the Warming Ring, rock pools | Underwater homes, kelp gardens, kids' play caves | The oldest barnacle carvings; Wenna's first diving stone |
 | **Saltpan Isle** | Salt pans, windmills, a dry, bright village | Shallow sea-grass meadows, turtles | The salt caves (with Old Lis); old songs |
 | **Gull Rock** | The outer lighthouse, bird cliffs, wind | Seal colony, kelp forest, a sunken bell | Keeper Holm's son's boat; the curious seal |
-| **Ferrow's Reach** | Proud fishing village, boat sheds, a chapel | Rocky reef, fish traps, cold water | Aunt Maren's hiding place; a superstition's real origin |
+| **Ferrow's Reach** | Quiet fishing village, boat sheds, painted doors | Rocky reef, fish traps, cold water | Aunt Maren's house; her daughter Isla's secret swimming cove |
 | **Kelpcrown Atoll** | A ring of rocks and a half-empty merfolk settlement | Ancient merfolk ruins, carvings, a lagoon | The history of merfolk on the islands |
-| **The Pearl Banks** | Company boats and buoys | Oyster beds, the old turtle | Pearls; signs of the Company cutting corners |
-| **The Drowned Quarter** | Only chimney tops at low tide | Sunken streets, the town hall, the clock tower | The founders' charter |
-| **The Drop-off** | Open sea, passing ships; Company boats at night | Blue fading to black; whales; marine snow in winter | Where the way home begins |
-| **The Far Reefs** | Open ocean beyond the drop-off | Untouched reefs, then raw dredge scars heading toward Coral Hollow | The dredging operation (Act 3) |
+| **The Pearl Banks** | Buoys and the divers' white stones | Shared harvest beds, the old turtle | Pearls; Wenna's first diving stone |
+| **The Drowned Quarter** | Only chimney tops at low tide | Sunken streets, the town hall, the clock tower | The old town's carved sign; letters from before the flood |
+| **The Drop-off** | Open sea, passing ships | Blue fading to black; whales; marine snow in winter | Where the way home begins |
+| **The Far Reefs** | Open ocean beyond the drop-off | Wild reefs on the way toward home; some bleaching | The current home; where the reef families arrive from in Act 5 |
 
 ---
 
@@ -146,7 +146,7 @@ Rare shells and pearls found exploring, used for festival lanterns and gifts (no
 * **Night creatures:** octopuses, glowing jellies, feeding rays.
 * **The town at night:** lamplighters, tavern songs, couples on the sea wall, secret meetings.
 * **Stars:** sit on a rock and learn the merfolk names for stars, used to navigate home.
-* Some story beats only happen at night: a merfolk funeral at sea, a secret council meeting, the festival.
+* Some story beats only happen at night: a merfolk farewell at sea, Maren's dusk whistle, the festival.
 
 ---
 
@@ -160,7 +160,7 @@ Rare shells and pearls found exploring, used for festival lanterns and gifts (no
 | Tangled nets | Snag her; she has to work free (or free a trapped creature) |
 | Drying out on land | Sea-sheen fades; she slows down |
 | Sharks | Rare, shy, never attack; but they make her (and the player) nervous |
-| People | Being chased off a dock, turned away, or followed |
+| Getting lost | Fog, unfamiliar currents and night; friends come looking for her |
 
 None of these end the game. The worst outcome is losing part of a haul or having to come back another time.
 

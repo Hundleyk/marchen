@@ -3,7 +3,7 @@
 ## Principles
 
 1. **The body is the HUD.** Belonging shows as barnacles on her model; fatigue shows in how she moves.
-2. **A diver's notebook.** Menus look like her own journal: waterproof oilcloth cover, pages of sketches, pressed seaweed and dockside words written in two scripts.
+2. **A diver's notebook.** Menus look like her own journal: linen-wrapped cover tied with sea-cord, pages of sketches, pressed seaweed and dockside words written in two scripts.
 3. **Calm by default.** No timers except Breath underwater. No pop-up spam.
 
 ## HUD
@@ -69,4 +69,4 @@ All bindings remappable.
 * **Word helper:** always show meanings of highlighted words.
 * **Swim assist:** auto-level underwater; option to reduce camera sway.
 * **Colour-safe:** depth and Breath warnings use shape and sound, not only colour.
-* **Content note** at the start explaining the game includes themes of discrimination and displacement, handled gently.
+* **Gentle themes:** the game touches on homesickness, a changing home and a winter storm; nothing graphic.

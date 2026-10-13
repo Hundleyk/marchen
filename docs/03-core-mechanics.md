@@ -26,12 +26,12 @@ Players should experience both lives fully. The town and the water are **equal h
 
 | In town (above) | In the water (below) |
 |---|---|
-| Human friends, shops, the market, the council hall | Merfolk friends, underwater homes, Kelpcrown Atoll |
-| Getting paid, paying rent, reading the Company's pay board | The dive work itself: pearl beds, salvage, repairs |
+| Human friends, shops, the market, the town hall | Merfolk friends, underwater homes, Kelpcrown Atoll |
+| Selling the harvest at market, errands, the town's daily life | The dive work itself: pearl beds, salvage, repairs |
 | Learning human customs and dockside words | Learning merfolk customs, currents and rites |
 | Festivals on the pier and in the square | The Spring Current rite at the drop-off |
 | Letters, notice boards, gossip, the harbour bell | Wrecks, sea caves, the Drowned Quarter, Coral Hollow memories |
-| Being treated as an outsider | Being the expert, at home and free |
+| Being the newcomer still learning everything | Being the expert, at home and free |
 
 That last row is the emotional core: on land she's the newcomer who's watched and judged; in the water she's graceful, skilled and free. Players should **feel** that difference in how she moves, the music and how people react.
 
@@ -50,14 +50,14 @@ Each beat should involve both halves. Examples:
 | Beat | Above | Below |
 |---|---|---|
 | A lost wedding ring | A fisher's daughter asks for help on the pier | Search the harbour floor among the pilings |
-| The Drowned Quarter records | The council claims the cove was never promised | Dive into the sunken town hall to find the founders' charter |
-| Corra's anger | Corra is thrown out of a shop | Find her alone at the drop-off; talk |
+| The old town's story | Mayor Odile wants to know what the old town looked like for an anniversary | Dive into the sunken town hall and bring back its old carved sign |
+| Corra's worry | Corra storms off after the young merfolk skip a rite for a town fair | Find her alone at the drop-off; talk |
 | Teaching Ada | Ada wants to see where merfolk live | Take her down in a diving bell to the Shelf's underwater homes |
 | The festival | Invite humans in town | Gather glowing shells from the reef at night |
 
 ### Day rhythm between the halves
 * **Morning:** water (dive at the turn of the tide).
-* **Midday:** town (get paid, errands, people).
+* **Midday:** town (market, errands, people).
 * **Afternoon:** player's choice: explore an island above or a zone below.
 * **Evening:** the waterline (the Warming Ring sits right on it).
 * **Night:** either; some events only happen underwater at night (bioluminescence, the Lighting of the Water).
@@ -66,11 +66,11 @@ Each beat should involve both halves. Examples:
 
 | Act | Town focus | Water focus |
 |---|---|---|
-| 1 Arrival | First steps on land, the Company, Ada | First dive, the divers' rules, sea caves |
-| 2 Work | Pay, friendships, Saltpan Isle | Pearl Banks, deep dives, the accident |
-| 3 Community | Merfolk organizing, the Company | Kelpcrown, the Drowned Quarter, a lost child |
-| 4 Conflict | The ordinance, the council hall | The founders' charter, Ferrow's Reach coast, the drop-off |
-| 5 Belonging | The vote, the festival in town | The Spring Current rite, the Lighting of the Water |
+| 1 Arrival | The white town, the market, Ada, Maren's empty house | First dive, the divers' rules, sea caves |
+| 2 Settling | School with the twins, Saltpan Isle, Gull Rock, customs | Pearl Banks, deeper dives, clues about Maren |
+| 3 Two worlds | Finding Maren and Isla at Ferrow's Reach | Kelpcrown, teaching Isla to swim, the Drowned Quarter |
+| 4 The storm | Sheltering families, the flooded lower town, rebuilding | Guiding boats home, searching the reefs, marine snow |
+| 5 Belonging | Welcoming the reef families, the festival in town | The Spring Current rite, the Lighting of the Water |
 
 ## 0b. Sea-sheen: her skin on land
 
@@ -103,18 +103,17 @@ She's merfolk, so she can stay under far longer than any human. But deep, cold w
 * Breath capacity grows through training dives with the elder divers and through belonging (see 4).
 
 ### Dive work
-Each morning the harbour or the merfolk community offers dive jobs:
+Each morning the Shelf's divers, or townsfolk, have something that needs doing underwater:
 
 | Job | What you do |
 |---|---|
-| **Pearl beds** | Find and open oysters on the banks; most pearls go to the company |
-| **Shellfish and sea-greens** | Gather abalone, urchins and seaweed; the merfolk's own harvest |
+| **The shared harvest** | Gather abalone, urchins, oysters and sea-greens with the Shelf's divers |
 | **Salvage** | Recover lost cargo, anchors and heirlooms from wrecks |
 | **Repairs** | Fix pier pilings, nets and moorings underwater |
 | **Search** | Find something or someone lost; these are usually story beats |
 
-* Jobs come with **pay** (shells, the town's currency), but pay is mainly a story device. The company pays merfolk divers less than humans for the same work, and the game lets you notice that.
-* Money buys a few things that matter: rent, boat passage, gear, and pearls to send home.
+* Part of the harvest goes to the Shelf's shared pot; the rest is sold at the town market for **shells** (the islands' currency).
+* Money is light and never a grind: it buys small things that matter, like rent, boat passage, gifts and things to send home.
 
 ### Diving rules and seasons
 The merfolk divers' community sets rules for every dive ground:
@@ -186,8 +185,8 @@ She brings one tradition from home: **the Lighting of the Water**, a night when 
 | 1 | She lights a single shell alone off the end of the pier |
 | 2 | The merfolk community joins; a few humans watch from the pier |
 | 3 | Her friends among the humans come; some bring lanterns |
-| 4 | The council bans it from the harbour (part of the conflict) |
-| 5 | The whole town lights the water together |
+| 4 | After the storm, a small, quiet lighting for those the storm took from homes |
+| 5 | Mayor Odile makes it a town festival; the whole town lights the water together |
 
 Each year's festival is played: gathering shells for lanterns, folding lanterns, inviting people, and the night itself.
 
@@ -209,4 +208,4 @@ Each year's festival is played: gathering shells for lanterns, folding lanterns,
 
 ## 9. No combat
 
-There's no fighting. Danger comes from the sea (currents, cold, depth, storms) and from people (being turned away, cheated, threatened). Challenges are solved by diving skill, exploration and relationships.
+There's no fighting and no villains. Challenges come from the sea (currents, cold, depth, storms), from being new (words, customs, drying skin), and from misunderstandings between people who care about each other. They're solved by diving skill, exploration and relationships.

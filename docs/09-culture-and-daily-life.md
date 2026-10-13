@@ -22,7 +22,7 @@ The game is built on real patterns from island and seafaring immigrant communiti
 1. **Invent, don't borrow sacred things.** Merfolk names, words, rites and beliefs are our own. We don't reuse real prayers, gods, songs or ritual names.
 2. **Merfolk aren't a stand-in for one real people.** They draw on many communities' experiences and belong to none of them.
 3. **Dignity first.** Merfolk culture is complete and admired, never a joke or a curiosity.
-4. **Hardship is real, not entertainment.** Discrimination is shown honestly through everyday moments, never as spectacle.
+4. **Kind, not naive.** The game focuses on welcome and everyday life. Real immigrants' hardships are honoured in the research, not dramatised as villains in the story.
 5. **Get readers.** Before launch, ask people with lived experience of migration and of these diving traditions to review the story.
 
 ---
@@ -75,7 +75,7 @@ Every merfolk diver breathes out in a long, high whistle when they surface. Each
 All names, songs and meanings are invented for the game.
 
 ### Home: Coral Hollow
-Her reef village beyond the drop-off. Shown through letters, memories and dreams: coral towers, a home in a giant shell, her mother's whistle. It's dying: slowly from warming water, and lately fast from reef torn away in the night. That's why young merfolk are leaving. (The night damage is the Company's secret dredging; see [04](04-world-and-narrative.md).)
+Her reef village beyond the drop-off. Shown through letters, memories and dreams: coral towers, a home in a giant shell, her mother's whistle. The water is slowly warming and the reef is fading. No one is to blame; it's change. That's why young merfolk have begun coming to the islands.
 
 ---
 
@@ -86,14 +86,15 @@ Brinehaven runs on the tide, not the clock. People say "see you at the turn," no
 
 | Tide | What the town is doing |
 |---|---|
-| **Low** | Shellfish diggers on the flats; children at the tidepools; the market sets up along the sea wall |
+| **Low** | Children at the tidepools; shell-gatherers on the beach below the cliffs; the market fills the square |
 | **The turn** | The harbour bell rings; boats go out; divers enter the water |
-| **High** | Boats return; the fish market is loud; the taverns fill in the evening |
+| **High** | Boats return; the harbour is loud and cheerful; the terrace cafés fill in the evening |
 
 ### Work and trades
-* **Fishers:** proud, superstitious, worried about catches.
+* **Fishers:** proud, superstitious, generous with their catch.
 * **Net-makers:** sit in rows on the quay; trade gossip as fast as knots.
-* **The Harbour Pearl Company:** the town's biggest employer; owns the boats and buys every pearl.
+* **Market sellers:** fruit, bread, salt and the Shelf's sea harvest, all in the stepped market square.
+* **The postman:** climbs every stair in town twice a day and knows everyone's news.
 * **Lighthouse keepers:** the most respected job on the islands.
 * **Salt-makers** on Saltpan Isle: boil seawater into salt in big pans.
 * **Boat-builders:** a half-built boat sits in every yard.
@@ -101,11 +102,11 @@ Brinehaven runs on the tide, not the clock. People say "see you at the turn," no
 ### Customs and beliefs
 * **The harbour bell** rings at every turn of the tide; people pause and touch the nearest wood "for luck."
 * **Tide-marks** carved on house corners record great floods.
-* **Superstitions about merfolk:** whistling on a boat brings bad luck (which makes the divers' whistle unsettling to fishers); a merfolk on deck means a storm.
+* **Merfolk luck:** fishers believe hearing a diver's whistle at dawn means a good catch, so they whistle back.
 * **The drowned are "gone out"**: people never say someone died at sea.
 
 ### Clothing and look
-Layered wool and oilcloth in rust, ochre, slate and faded blue; knitted sweaters with family patterns; aprons with many pockets; wooden clogs for the flats.
+Light linen and cotton in white, sand and sky blue; wide sun hats; embroidered sashes in family colours; rope sandals; aprons with many pockets.
 
 ---
 
@@ -116,7 +117,7 @@ Where humans and merfolk work side by side, a mixed language has grown up. She l
 | Word | Meaning | From |
 |---|---|---|
 | **saltkin** | friend; someone you'd dive with | Mixed |
-| **salt-pup** | a young merfolk (can be rude) | Human |
+| **sea-guest** | the town's polite old word for merfolk | Human |
 | **deepward** | out toward the drop-off; also "seriously" | Mixed |
 | **turn** | the turn of the tide; also "see you soon" | Human |
 | **ulla** | hello / I'm here (said after surfacing) | Merfolk |
@@ -138,8 +139,8 @@ Hearing *"ulla"* from a human shopkeeper in Act 5 is one of the game's quiet pay
 |---|---|
 | **NPC routines** | Named characters follow schedules keyed to time of day and tide. Divers go out at the turn; fishers return at high tide; the Warming Ring fills in the evening. |
 | **Ambient life** | Unnamed townsfolk and merfolk: kids diving off rocks, dockworkers, gulls stealing fish, couples on the sea wall, merfolk singing at the Shelf. |
-| **Overheard talk** | Short lines as she walks past, reacting to recent events: a council meeting, a good haul, her latest choice. |
-| **Town memory** | The world visibly changes with the story: shell lanterns appear on human porches, a new sign at the Shelf, the Company's pay board is repainted. |
+| **Overheard talk** | Short lines as she walks past, reacting to recent events: a good haul, the storm, her latest blunder. |
+| **Town memory** | The world visibly changes with the story: shell lanterns appear on human porches, a new sign at the Shelf, merfolk shell work mixed into the rebuilt lower town. |
 | **Seasons** | Spring to spring across five acts; weather, light, festivals and routines change with each. |
 | **Language spread** | Background chatter uses more merfolk words as the game goes on. |
 | **Two looks mixing** | Human and merfolk art styles slowly blend in props and decoration. |

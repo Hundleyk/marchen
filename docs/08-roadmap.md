@@ -8,7 +8,7 @@
 | **M1** | Swim and dive prototype | Feel | Capsule stand-in: walk, swim, dive, surface with whistle, Breath by depth, gather pickups |
 | **M2** | Harbour greybox | Core loop | Pier, harbour, the Shelf and the Pearl Banks blocked out; one dive job; low/high tide; one dialogue with word highlights |
 | **M3** | Vertical slice | Show it | Act 1 fully playable (45–60 min) with final hero model, barnacle growth, journal, the first festival light |
-| **M4** | Content | The game | Acts 2–5, all islands, cast arcs, the council vote, festival progression |
+| **M4** | Content | The game | Acts 2–5, all islands, cast arcs, the storm, festival progression |
 | **M5** | Polish | Ship | Accessibility, performance, cultural review, Steam page |
 
 ## Godot project plan
@@ -53,13 +53,14 @@ marchen/
 | Cultural sensitivity | Inspired-by, not copied; invented names and rites; research notes in doc 09; seek review from readers with relevant lived experience before launch |
 | Swimming feel | Prototype swimming first (M1); it's most of the game |
 | Hero model quality | Build from the v2 reference via a 3D artist or image-to-3D with cleanup; prototype with a capsule |
-| Heavy themes overwhelm cozy | Every act balances tension with friendships, discoveries and quiet evenings |
+| Too little tension | Gentle stakes from change, homesickness, the elders' belief and the winter storm |
 | Scope (5 acts, 6 places) | Act 1 slice first; reuse dive jobs and NPC systems across islands |
 
 ## Decided
 
 * **Legs, no tail.** She has legs on land and in water, exactly as on the reference sheet. No transformation.
-* **Why she left home.** Her reef is dying from warming water, and lately from the Harbour Pearl Company secretly dredging the far reefs. The job she takes to save home is part of what's destroying it. Aunt Maren found out and was silenced.
+* **Why she left home.** The water around her reef is slowly warming and the reef is fading; no one is to blame. She comes to start a new life, see if the islands could be home for her family, and find Aunt Maren (who married a human and was afraid to tell the family).
+* **Tone.** Brinehaven is kind and welcoming; no villains. Town look inspired by Seafront in *NieR Replicant*.
 
 ## Open questions
 
