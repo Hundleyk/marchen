@@ -48,6 +48,8 @@ The Company pushes the Council to pass an ordinance moving the merfolk out of th
 
 Choices here matter: who she asks for help, what she reveals from the Drowned Quarter records, whether she speaks at the council hall.
 
+On winter dives at the drop-off, **marine snow** drifts down through the dark water: a real ocean phenomenon of tiny falling particles that looks like snow. It's the quietest, most beautiful part of the game, and where she goes to think.
+
 **Ends with:** the council vote, decided by the relationships she's built.
 
 ### Act 5 · Belonging (spring again)
@@ -74,6 +76,26 @@ A new merfolk girl surfaces at the end of the pier at dawn with a letter of intr
 | **Rafe** | Human diver on the Pearl Banks | Paid more for the same work; embarrassed when he finds out |
 | **The Harbourmaster** | Runs the docks | Rule-bound and grumpy; secretly kind |
 | **Eldest of Kelpcrown** | Elder of the old atoll | Keeper of merfolk history; wary of the hero's new barnacles |
+
+## Story threads
+
+### Merfolk children at the town school
+In Act 2, Pim and Pell start at Brinehaven's school, the first merfolk children to attend. They don't know the words, need to wet their skin between lessons, and get teased. The hero walks them there, helps them with words, and steps in when it goes wrong. By Act 5 the class is using merfolk words, and the teacher keeps a water basin by the door.
+
+### The waterline taboo
+The Kelpcrown elders hold an old rule: merfolk who settle their lives with humans lose their place in the sea. It's why some merfolk distrust the hero's new barnacles, and it hangs over her closeness to Ada. Aunt Maren's past may be tied to it. The game never forces the answer; the player's friendships shape how the hero, and the elders, come to see it.
+
+### Unspoken feelings
+Characters often don't say what they mean:
+* **Ada** is drawn to the hero and to the sea, and never quite says so.
+* **Rafe** has a quiet crush on Corra, who has no time for humans.
+* **Corra** acts angry at the hero but is afraid of being left behind.
+* **Keeper Holm** has never said out loud that he blames the sea for his son.
+
+Some of these resolve, some stay gentle and unspoken. Feelings come out at the Warming Ring, on the lighthouse steps, and underwater, where merfolk can't speak and have to show what they mean.
+
+### Ordinary life underwater
+The Shelf's underwater half is as lived-in as the town: laundry swaying in the current, kids late for lessons, neighbours gossiping between doorways, a merfolk grandmother scolding fish out of her garden. The underwater world is never just scenery.
 
 ## Tone notes
 

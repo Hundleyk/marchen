@@ -72,6 +72,18 @@ Each beat should involve both halves. Examples:
 | 4 Conflict | The ordinance, the council hall | The founders' charter, Ferrow's Reach coast, the drop-off |
 | 5 Belonging | The vote, the festival in town | The Spring Current rite, the Lighting of the Water |
 
+## 0b. Sea-sheen: her skin on land
+
+Merfolk skin needs the sea. On land, her iridescent sheen slowly dries, and she has to get wet again now and then. This gives the town half its own gentle rhythm and a pull back toward the water.
+
+* **Sea-sheen** lasts about 8 minutes of real time on land in normal weather.
+* It **shows on her body,** not on a bar: her skin's shimmer fades, her fins droop slightly, her steps slow, and her expression turns tired.
+* **Refill anywhere wet:** jump in the sea, stand in rain, use a public fountain or a dockside water barrel, wade at the shore, or sit under a dripping net-loft. A full dive refills it completely.
+* **Weather and place matter:** rain and fog = no drying; hot summer days and the dry salt pans of Saltpan Isle = faster; shade and sea spray = slower.
+* **At zero she doesn't faint or fail.** She gets tired and slow, and a friend may offer her water. In a story scene, the scene simply waits.
+* **Belonging helps:** some townsfolk start leaving water barrels out for merfolk; Ada carries a water flask for her; a shopkeeper keeps a basin by the door. Each is a small sign she's welcome.
+* **Accessibility:** can be slowed or switched off.
+
 ## 1. Diving (the heart of the water half)
 
 She's merfolk, so she can stay under far longer than any human. But deep, cold water still takes it out of her, and the work is hard.

@@ -39,6 +39,7 @@ marchen/
 | `breath.gd` | Drain by depth zone; refill on surfacing; triggers the whistle |
 | `tide_clock.gd` | In-game time and two tides a day; raises/lowers the water plane and toggles tide-only areas |
 | `dive_job.gd` | Resource: location, pickups, pay, rules (closed beds) |
+| `sea_sheen.gd` | Drying timer on land modified by weather and shade; refills from water volumes; drives the skin shader and movement speed |
 | `barnacles.gd` | Reveals barnacle mesh groups when belonging milestones are reached |
 | `npc_schedule.gd` | Per-NPC routines keyed by time and tide |
 | Dialogue | Dialogic 2 or a small custom system; supports word highlights and vocabulary-gated choices |

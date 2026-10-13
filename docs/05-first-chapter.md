@@ -31,6 +31,7 @@
 * Free walk through Brinehaven's harbour streets. Shops, nets drying, children, gulls.
 * Small, everyday moments: a baker who turns her away; a girl (**Ada**) who chases after her to return her dropped letter and asks about her fins.
 * The **Company office**: Teodor Vane hires her on the spot as a pearl diver. Pay is posted on the wall: *Human divers: 10 shells. Merfolk divers: 5 shells.* She can comment, or say nothing.
+* Her **sea-sheen** starts fading in the dry streets. A dockside water barrel teaches the refill. Ada splashes her from a bucket and laughs.
 * Ada tells her where the merfolk live: "the Shelf, past the rocks. Everyone knows."
 
 ### 3. The Shelf (8 min)
@@ -75,7 +76,8 @@ About 25 minutes in town (pier, streets, Company, Warming Ring) and 25 minutes i
 5. Dive job and the divers' rules
 6. Tide (low tide opens the caves)
 7. Teaching and learning words
-8. Belonging (first barnacle)
+8. Sea-sheen (getting wet on land)
+9. Belonging (first barnacle)
 
 ## Prototype checklist
 * [ ] Harbour, pier and the Shelf blocked out

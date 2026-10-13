@@ -22,7 +22,8 @@ As the story goes on, the two styles mix: merfolk shell lanterns on human porche
 * **The Shelf:** houses on stilts and in rock hollows, half in the water; nets and laundry; the Warming Ring's stone circle and fire on the shore.
 * **The Pearl Banks:** sandy shelves of oyster beds marked with stones and buoys.
 * **The Drowned Quarter:** sunken streets, doorways full of fish, a clock tower on its side.
-* **The Drop-off:** blue fading to black; the only truly dark place in the game.
+* **The Drop-off:** blue fading to black; the only truly dark place in the game. In winter, **marine snow** drifts down through it.
+* **Sea-sheen on her skin:** a shader parameter fades iridescence and adds a matte, slightly dusty look as she dries; it snaps back to glossy and shimmering when she's wet.
 
 ### Seasons
 | Act | Season | Palette |

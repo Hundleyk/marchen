@@ -64,6 +64,7 @@ All bindings remappable.
 ## Accessibility
 
 * **Breath assist:** slower drain or no drain.
+* **Sea-sheen assist:** slower drying or off; optional small droplet icon for players who can't read the skin shimmer.
 * **Subtitles** on by default, with speaker names and size options; captions for the surfacing whistle and ambient sounds.
 * **Word helper:** always show meanings of highlighted words.
 * **Swim assist:** auto-level underwater; option to reduce camera sway.

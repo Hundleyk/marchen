@@ -40,6 +40,12 @@ The game is built on real patterns from island and seafaring immigrant communiti
   * The first catch of the day is shared, not sold.
   * If a diver doesn't surface, everyone goes down.
 
+### Daily life below
+The Shelf's homes continue under the water: round rooms in the rocks, doorways hung with kelp curtains, shell lamps, gardens of sea-grass. Daily life goes on as it does in any village: washing hung in the current, children chasing fish to their lessons, elders arguing over whose turn it is at the oyster bed, music drifting from someone's open doorway.
+
+### The waterline rule
+An old merfolk belief: *a life settled on land is a life given up by the sea.* Elders at Kelpcrown still hold to it; the Shelf's younger merfolk mostly don't. It's an echo of a real immigrant tension: the fear that putting down roots in a new place means losing the old one.
+
 ### The Warming Ring
 A circle of stacked stones on the Shelf's shore with a fire pit in the middle: the community's heart.
 * Divers come out of the cold water here, warm up, mend gear and share food and news.
@@ -119,6 +125,8 @@ Where humans and merfolk work side by side, a mixed language has grown up. She l
 | **bloom** | a good haul; good news | Mixed |
 | **stone it** | rest something; leave it alone (from the divers' white stone) | Merfolk |
 | **far-shell** | someone far away or gone; from the shell set aside at meals | Merfolk |
+| **sheen** | the shimmer of merfolk skin; "losing your sheen" = worn out | Merfolk |
+| **wet the door** | to welcome someone (from basins left out for merfolk) | Mixed |
 
 Hearing *"ulla"* from a human shopkeeper in Act 5 is one of the game's quiet payoffs.
 
