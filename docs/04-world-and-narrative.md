@@ -1,70 +1,83 @@
 # 04 · World and narrative
 
-## The Märchen coast
+## The islands
 
-One long, curving shoreline. The sea is to the west; cliffs and forest rise to the east. Five districts sit along the coast from north to south, joined by a beach path that changes with the tide. Nix's home, **the Tide Hollow**, is a sea cave at the centre of the coast. The sea-glass ceiling glows with each finished tale.
+A chain of islands in a warm, shallow sea, with a deep drop-off to the west where the open ocean begins. Humans live on the surface of the larger islands; merfolk live in coves, on small islets and below the water. Most of the open sea is merfolk country.
 
-All source tales are public domain (Grimm, Andersen, Fouqué) and retold freely.
+| Place | Type | What it's like |
+|---|---|---|
+| **Brinehaven** | Main island, human town | The harbour town where she lives. Piers, net-lofts, a fish market, a lighthouse, the Harbour Pearl Company office, the council hall. Busy, noisy, a little suspicious of outsiders. |
+| **The Shelf** | Merfolk cove on Brinehaven's edge | The small merfolk community: houses on stilts and in the rocks, half in the water. The divers' shelter, the **Warming Ring**, sits on the shore here. Home. |
+| **Saltpan Isle** | Human village | Salt-makers with their own dialect and old customs. Friendly, curious, poor. |
+| **Gull Rock** | Small island | The outer lighthouse and its keeper. A lonely place with the best view of the sea. |
+| **Ferrow's Reach** | Human fishing village | Proud, superstitious, wary of merfolk; they blame them for bad catches. |
+| **Kelpcrown Atoll** | Merfolk islet | An old merfolk settlement, half-empty. Elders who remember when merfolk owned these waters. |
+| **The Pearl Banks** | Underwater | The richest oyster beds in the islands, worked by the Company. |
+| **The Drowned Quarter** | Underwater | An old part of Brinehaven that slipped into the sea in a storm long ago. Holds the town's buried history. |
+| **The Drop-off** | Deep water | The edge of the open ocean. The way home lies beyond it. |
 
-The towns' customs, food, festivals and daily routines are in [09 · Culture and daily life](09-culture-and-daily-life.md). Finishing a tale lets that district's blocked festival happen.
+## Factions
 
-## Story premise
-
-Tales are how the land talks to the sea. A long time ago the coast's stories began stopping mid-sentence. Nobody on land noticed, because a stuck moment feels like an ordinary pause. But the sea did: without endings, the tide forgot when to turn, and storms began. The sea shaped Nix and sent them ashore.
-
-**What's stopping the stories?** The Glass Deep's sea-witch made a bargain long ago that was never closed, neither kept nor broken. An unfinished bargain at the bottom of the sea leaks into every story on the coast. Each finished tale loosens it; the last district is where Nix finally faces it.
-
-## Districts
-
-### 1. Nixmill (tutorial) · Grimm, *The Water Nixie*
-* **Place:** a millpond village where a river meets a tidal inlet. Water wheels, reed beds, a fallen bridge.
-* **Stuck tale:** two siblings fell into the nixie's well and are frozen mid-escape. The brush, comb and mirror they threw behind them hang in the air, never landing.
-* **Beats:** the Thrown Brush (bramble hill), the Thrown Comb (channel), the Thrown Mirror (glass lake), the Nixie Herself (a jealous, lonely water spirit, a mirror of what Nix could become).
-* **Theme:** being of the water, but not trapped by it.
-* **Reward:** Comb shell, Glide.
-
-### 2. Fisher's Hollow · Grimm, *The Fisherman and His Wife*
-* **Place:** a fishing cove whose hut keeps changing into bigger and bigger houses, each one half-built.
-* **Stuck tale:** the wife's wishes keep growing; the sea is stuck mid-storm.
-* **Beats:** the hovel, the cottage, the castle, the palace, the last wish.
-* **Theme:** wanting more vs. knowing what's enough. Soft ending: she chooses the hovel and is content. Strong ending: Nix tells the sea to take it all back.
-* **Reward:** Storm pearl, wave push.
-
-### 3. Swanreach · Grimm, *The Six Swans*
-* **Place:** cliff-top meadows above a swan colony; flax fields; a stake on a hill.
-* **Stuck tale:** six swan-brothers, six shirts of starwort almost sewn; the last sleeve is missing and the sister can't speak to explain.
-* **Beats:** gather starwort at Ebb, find the sleeve-thread, speak for the silent sister at the trial.
-* **Theme:** speaking for someone who can't; patience.
-* **Reward:** Feather shell, longer float-jump hang.
-
-### 4. Undine's Rest · Fouqué, *Undine*
-* **Place:** a lakeside castle joined to the sea by a canal; a sealed well in the courtyard.
-* **Stuck tale:** a wedding where the water bride's husband sealed the well to keep her kin out, and the story froze before its tragedy.
-* **Beats:** the knight's broken promise, the uncle in the fountain, the sealed well.
-* **Theme:** a promise to someone from the water. Nix chooses whether to open the well.
-* **Reward:** Well crystal, extended Listen.
-
-### 5. The Glass Deep · Andersen, *The Little Mermaid*
-* **Place:** the seabed, reachable only at a permanent Ebb that Nix creates. Coral palaces, the sea-witch's grotto.
-* **Stuck tale:** the bargain (a voice for legs) was never closed. The mermaid stands frozen at the shore between both worlds.
-* **The Stopped:** the bargain itself, a giant half-written contract.
-* **Theme:** what Nix is (also something the sea made to go ashore).
-
-## Ending
-
-The finale has two true endings, chosen by the player's last stance:
-
-* **Soft ending:** Nix offers to carry the bargain's weight instead. The mermaid gets her voice back and a choice; Nix stays ashore as the coast's tide-keeper.
-* **Strong ending:** Nix breaks the bargain outright. The sea floods the grotto, the witch's power goes back to the deep, and Nix returns to the sea with the mermaid free on the shore.
-
-Neither is framed as better. The final panel of each echoes the motto: *like the ocean, I am both soft and strong.*
-
-## Supporting cast
-
-| Character | Role |
+| Group | What they want |
 |---|---|
-| **Old Wend** | A retired lighthouse keeper in the Tide Hollow; teaches Nix land customs; comic relief |
-| **The Gull Postmaster** | A gull who carries letters between districts; fast-travel and hints |
-| **Mira** | The miller's daughter in Nixmill; first friend; reappears in each district as a "story collector" |
-| **The Nixie** | Nixmill's antagonist turned ally |
-| **The Sea-witch** | Never seen until the end; heard as a voice in Listen mode across the game |
+| **The Shelf community** | To be safe, keep their homes and traditions, and be paid fairly |
+| **The Harbour Pearl Company** | Cheap divers and control of the Pearl Banks |
+| **Brinehaven Council** | Order, trade, and keeping voters happy |
+| **Townsfolk** | Mixed: some friendly, some fearful, most just busy |
+| **Kelpcrown elders** | For the young to remember the old ways |
+
+## The story in five acts
+
+### Act 1 · Arrival (spring)
+She surfaces at the end of Brinehaven's pier at dawn with a letter of introduction. The harbourmaster doesn't know what to do with her. The Company hires her as a pearl diver on the spot at half the human rate. She finds the Shelf, where the elder diver **Grandmother Wenna** takes her in and teaches her the divers' rules. She learns her aunt hasn't been seen in two years. That night she lights a single shell at the end of the pier.
+
+**Ends with:** first barnacle grown in Brinehaven; the question of what happened to her aunt.
+
+### Act 2 · Work (summer)
+Daily dives on the Pearl Banks. She makes her first human friend, **Ada**, the lighthouse keeper's granddaughter, and learns dockside words. She explores Saltpan Isle and Gull Rock. She notices merfolk divers get the deepest, most dangerous beds and the lowest pay. A merfolk diver is badly hurt on a deep dive the Company ordered. Clues suggest her aunt worked for the Company too.
+
+**Ends with:** the Lighting of the Water, with the Shelf community joining her.
+
+### Act 3 · Community (autumn)
+She becomes part of the Shelf: helping rebuild a storm-damaged house, finding a lost child in the sea caves, carrying messages to Kelpcrown Atoll. The merfolk organize, inspired partly by her, to ask the Company for fair pay. In the Drowned Quarter she finds records showing the Shelf cove was promised to the merfolk by the town's founders. Her aunt's trail leads to Ferrow's Reach.
+
+**Ends with:** the Company refuses; tension rises.
+
+### Act 4 · Conflict (winter)
+The Company pushes the Council to pass an ordinance moving the merfolk out of the Shelf so the cove can become a new pearl harbour. The festival is banned from the harbour. Some humans stand with the merfolk; others turn cold. She finds her aunt at Ferrow's Reach, living alone and afraid, having been blacklisted after she spoke up years ago.
+
+Choices here matter: who she asks for help, what she reveals from the Drowned Quarter records, whether she speaks at the council hall.
+
+**Ends with:** the council vote, decided by the relationships she's built.
+
+### Act 5 · Belonging (spring again)
+The ordinance is defeated, or delayed and then defeated, depending on choices. The founders' promise is honoured. The Company's merfolk divers win fair pay. Her aunt comes back to the Shelf. At the spring rite she's welcomed as a full diver of the community.
+
+**Ending:** the whole town lights the water together. She writes home: maybe the young ones from the reef can come here now.
+
+### Optional epilogue
+A new merfolk girl surfaces at the end of the pier at dawn with a letter of introduction, and the hero is the one who goes down to meet her.
+
+## Cast
+
+| Character | Who they are | Their arc |
+|---|---|---|
+| **Grandmother Wenna** | Eldest merfolk diver; leader of the Warming Ring | Has seen it all; learns to trust the young to lead |
+| **Aunt Maren** | Her aunt; vanished two years ago | Silenced for speaking up; finds her courage again |
+| **Ada** | Lighthouse keeper's granddaughter; first human friend | Wants to see the world beyond the islands; stands up to her own town |
+| **Keeper Holm** | Ada's grandfather; Gull Rock lighthouse | Lost his son to the sea; distrusts merfolk at first, then saves one |
+| **Teodor Vane** | Manager of the Harbour Pearl Company | Not a cartoon villain; a man who thinks of people as costs. Can be reached, or not. |
+| **Councillor Bryn** | Brinehaven councillor | Decent but cowardly; the swing vote |
+| **Pim and Pell** | Merfolk twins, age 10, at the Shelf | Follow her everywhere; first to pick up dockside slang |
+| **Corra** | Young merfolk diver, her rival-turned-friend | Angry at the town; wants to fight, not talk |
+| **Old Lis** | Salt-maker on Saltpan Isle | Teaches her the island dialect; collects old songs |
+| **Rafe** | Human diver on the Pearl Banks | Paid more for the same work; embarrassed when he finds out |
+| **The Harbourmaster** | Runs the docks | Rule-bound and grumpy; secretly kind |
+| **Eldest of Kelpcrown** | Elder of the old atoll | Keeper of merfolk history; wary of the hero's new barnacles |
+
+## Tone notes
+
+* Prejudice is shown through everyday moments (a shop that won't serve her, a whispered comment, unequal pay), not graphic violence.
+* No character is purely evil. Most hurt comes from fear, habit and money.
+* Merfolk culture is shown as full and dignified, not exotic. Humans are curious about it, and so is the player.
+* Every act has small joys: friendships, discoveries, jokes, quiet evenings at the Warming Ring.

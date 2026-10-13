@@ -1,132 +1,137 @@
 # 09 · Culture and daily life
 
-The coast is not a backdrop. People live here, work, cook, argue, marry, grieve and celebrate, and the player should feel that the towns would go on without Nix. This doc defines the coast's culture and the systems that make it visibly *live*.
-
-The culture is invented. It draws loosely on real tidal coasts (mudflat harvesting, harbour towns, lighthouse keeping, net-mending, salt-making), but no real people or traditions are copied or caricatured.
+The islands are not a backdrop. People live here, work, argue, marry, grieve and celebrate, and the town would go on without her. This doc defines the two cultures she lives between and the systems that make the world visibly *live*.
 
 ---
 
-## 1. The heart of the culture: living by the tide
+## Part 1 · Where the inspiration comes from
 
-Everything on the coast runs on the tide, not the clock. Nobody says "see you at noon"; they say "see you at the turn."
+The game is built on real patterns from island and seafaring immigrant communities. We use them as inspiration, never as copies.
 
-| Tide | What the towns are doing |
+| Real history | What we take |
 |---|---|
-| **Ebb** (low) | Flat-walkers go out onto the sand to dig shellfish and gather sea-greens. Children race to the tidepools. The **sand market** sets up on the exposed flats: stalls on poles, sold out and packed before the water returns. |
-| **Slack** (mid) | Workshops open: net-menders, salt-boilers, boat-builders. The square fills. Elders sit on the seawall. |
-| **Flood** (high) | Boats go out and come back. The ferry runs. Everyone else goes indoors: kitchens light up, the tavern fills, stories get told. |
-| **The turn** | The moment the tide changes direction is a small ritual pause. People stop what they're doing, touch the nearest water or wet stone, and say *"Turn well."* |
+| **Haenyeo** of Jeju Island, South Korea: women free-divers who gather abalone, urchins and seaweed without breathing gear, with a whistling breath on surfacing; organized diving communities with shared rules; a stone shore shelter (*bulteok*) to warm up, share food and teach; seasonal work trips to other coasts; elder women leading; spring rites for safe diving | A merfolk diving community led by elder women; divers' rules; a shore shelter at the heart of community life; the surfacing whistle; a spring rite of our own invention |
+| **Japanese ama divers** | Diving as an inherited, skilled, respected-yet-hard trade |
+| **Greek sponge divers of Tarpon Springs, Florida** | Immigrants bringing a diving trade to a new town; a water rite that becomes part of the town's identity |
+| **Pearling in Broome, Australia** | A dangerous pearl trade worked by immigrant divers; a mixed town; a festival that later celebrates that mixed heritage |
+| **Cape Verdean and Azorean communities in New England** | Mutual-aid halls; home festivals and boat blessings adopted by the host town; ships carrying letters and goods home |
+| **Windrush-era Caribbean migrants in Britain** | Being invited for work and then treated as outsiders; a home festival growing into a whole city's celebration |
+| **Exclusion and removal,** such as Japanese American fishing families forced off Terminal Island, Los Angeles, in 1942 | The real stakes of a town deciding who's allowed to stay |
 
-**Why it matters for play:** when Nix changes the tide with a tide stone, the town's routine changes with it. Lower the tide and the market appears; raise it and people go home. Players learn the culture just by playing the core mechanic.
+### Respect rules
+1. **Invent, don't borrow sacred things.** Merfolk names, words, rites and beliefs are our own. We don't reuse real prayers, gods, songs or ritual names.
+2. **Merfolk aren't a stand-in for one real people.** They draw on many communities' experiences and belong to none of them.
+3. **Dignity first.** Merfolk culture is complete and admired, never a joke or a curiosity.
+4. **Hardship is real, not entertainment.** Discrimination is shown honestly through everyday moments, never as spectacle.
+5. **Get readers.** Before launch, ask people with lived experience of migration and of these diving traditions to review the story.
 
-## 2. Stories as a way of life
+---
 
-On this coast, tales aren't for children. They're how people keep track of what matters.
+## Part 2 · Merfolk culture (the Shelf)
 
-* **Telling at the turn.** At every high tide someone tells a tale in the square or the tavern, usually a family's own version of an old story. Families "own" tales and pass them down.
-* **Tale-cloths.** Every home hangs a long embroidered cloth by the door showing its family's tale in pictures. A new scene is stitched when something important happens (a birth, a wreck, a wedding). Stuck tales show up here too: the stitching stops halfway.
-* **The Keeper of Endings.** Each town has an elder who knows how every tale ends and is asked to settle arguments. With the tales stuck, the Keepers are frightened: they can't remember the endings anymore.
-* **Sayings** (everyday speech):
-  * *"Turn well."* (greeting and goodbye)
-  * *"It'll come back with the tide."* (don't worry about it)
-  * *"Don't tell it before it ends."* (don't count your chickens)
-  * *"Salt in the wound, salt in the soup."* (make the best of a bad thing)
-  * *"She's all flood and no ebb."* (someone who never calms down)
+### The divers' community
+* The Shelf's divers work together, not alone. Dive grounds are shared by rules the whole community agrees on.
+* **Led by elders,** mostly older women divers. Grandmother Wenna has the final word on where and when to dive.
+* **Ranks by skill, not age:** *shallow divers* (learners and elders), *bank divers*, and *deep divers*. The hero starts as a bank diver.
+* **Divers' rules:**
+  * Rest a ground when the elders say so (marked with a single white stone).
+  * Leave the shallows to the old and the young.
+  * Never dive alone past the drop-off.
+  * The first catch of the day is shared, not sold.
+  * If a diver doesn't surface, everyone goes down.
 
-## 3. How land people see the sea
+### The Warming Ring
+A circle of stacked stones on the Shelf's shore with a fire pit in the middle: the community's heart.
+* Divers come out of the cold water here, warm up, mend gear and share food and news.
+* Elders teach the young; arguments are settled; newcomers are welcomed.
+* It's also the community's **mutual-aid society**: when someone is hurt or can't dive, the others share their haul. When someone new arrives, they find them a room.
 
-* **Respect and fear in equal measure.** The sea feeds them and drowns them.
-* **Offerings at the waterline.** Fishers leave a little of the first catch on the sand at ebb. Bakers leave the first bread-end. If it's gone by flood, the sea accepted it.
-* **Sea-folk in folklore.** Land people tell tales of water spirits, half as warnings and half as love stories. Most believe they're not real. Meeting Nix shakes people: some are thrilled, some cross the street, children follow them everywhere.
-* **The drowned are "gone out."** Nobody says someone died at sea; they "went out with the tide." Lanterns are set on the water for them every year at the Lantern Tide festival.
+### The surfacing whistle
+Every merfolk diver breathes out in a long, high whistle when they surface. Each person's whistle is slightly different, and divers recognise each other by it across the water. Hearing an answer means *I'm here, you're safe.*
 
-## 4. Nix's own customs (culture clash)
-
-Nix comes from the sea and has their own culture. A lot of the charm and comedy comes from the two not quite fitting.
-
-| Sea custom | What land people think |
+### Customs
+| Custom | Meaning |
 |---|---|
-| Greeting by touching foreheads | Startling; children love it |
-| Thanking rain out loud | Sweet, a bit odd |
-| Never eating fish in front of others (it's like eating a neighbour) | Awkward at every dinner |
-| Gifts are given wet (dipped in seawater first) | Ruins the bread |
-| Speaking only when the other person has finished breathing out | Long, strange pauses |
+| **Forehead greeting** | Touching foreheads; used between friends and family |
+| **Barnacles** | A life written on the body; new ones grow for bonds, homes, vows and losses |
+| **The shell for the far away** | A shell set apart at every meal for those who are far away or gone |
+| **Wet gifts** | Gifts are dipped in seawater before giving: "from the sea, to you" |
+| **Speaking order** | Elders speak first at the Warming Ring; nobody interrupts someone mid-breath |
+| **Naming the water** | Merfolk name currents and rocks the way humans name streets |
 
-Over the game, Nix slowly picks up land customs and the towns pick up some of Nix's. By the end, the children in Nixmill greet each other forehead to forehead.
-
-**Mechanic:** a **Customs** page in the journal. Learning a custom (by watching, asking, or getting it wrong) unlocks new dialogue and interactions: Nix can join a turn-ritual, leave an offering, or stitch a tale-cloth.
-
-## 5. Food
-
-Food is one of the clearest windows into the culture, and it gives Nix something to do in everyday life.
-
-| Dish | What it is | When it's eaten |
+### Rites and festivals
+| Rite | When | What happens |
 |---|---|---|
-| **Flat-bread on the stone** | Thin bread baked on hot rocks at the sand market | Ebb, eaten while walking |
-| **Turn soup** | Shellfish, sea-greens and potato; every family has its own recipe | High tide, shared from one pot |
-| **Salt honey cake** | Dense cake with coarse sea salt on top | Festivals and visits |
-| **Smoked eel in paper** | Sold from the smokehouse window | Workers' lunch |
-| **Kelp crisps** | Nix's sea snack; land people find them disgusting at first | Nix's gift to the coast; becomes popular by the end |
+| **The Spring Current** | Start of spring | The divers' season opens. Divers swim out together, leave woven kelp at the drop-off, and ask the sea for a safe year. New divers are welcomed. |
+| **The Lighting of the Water** | Late summer | Glowing shells and lanterns are set on the sea at night to remember those far away and gone. **This is the festival she brings to Brinehaven.** |
+| **Deep-diver's return** | Whenever a deep diver retires | The community sings them up from their last dive |
 
-**Mechanic (light cooking):** Nix can gather ingredients at ebb and cook at a shared pot. Bringing the right dish to the right person opens a conversation, earns a story, or settles a quarrel. *If the café idea goes ahead, this is its core.*
+All names, songs and meanings are invented for the game.
 
-## 6. Trades and work
+### Home: Coral Hollow
+Her reef village beyond the drop-off. Shown through letters, memories and dreams: coral towers, a home in a giant shell, her mother's whistle. Its slow dying is why young merfolk are leaving.
 
-Each town has visible trades with workers who follow daily routines.
+---
 
-* **Flat-walkers:** dig shellfish at ebb; read the sand like a map.
-* **Net-menders:** sit in rows on the quay; trade gossip as fast as knots.
-* **Salt-boilers:** boil seawater into salt in big pans; steam all day.
-* **Boat-builders:** a half-built boat sits in every yard; it grows over the game.
-* **Lamplighters:** light the harbour lamps at dusk; the lighthouse keeper is the most respected job on the coast.
-* **Tale-stitchers:** embroider the tale-cloths; know everyone's secrets.
+## Part 3 · Human culture (Brinehaven)
 
-## 7. Festivals
+### Living by the tide
+Brinehaven runs on the tide, not the clock. People say "see you at the turn," not "see you at noon."
 
-Each district has a festival its stuck tale has been blocking. Finishing the tale lets the festival finally happen, and **the festival is the reward**: the whole town comes out, Nix is invited in, and the player can wander, eat, play and talk.
+| Tide | What the town is doing |
+|---|---|
+| **Low** | Shellfish diggers on the flats; children at the tidepools; the market sets up along the sea wall |
+| **The turn** | The harbour bell rings; boats go out; divers enter the water |
+| **High** | Boats return; the fish market is loud; the taverns fill in the evening |
 
-| District | Festival | What happens |
+### Work and trades
+* **Fishers:** proud, superstitious, worried about catches.
+* **Net-makers:** sit in rows on the quay; trade gossip as fast as knots.
+* **The Harbour Pearl Company:** the town's biggest employer; owns the boats and buys every pearl.
+* **Lighthouse keepers:** the most respected job on the islands.
+* **Salt-makers** on Saltpan Isle: boil seawater into salt in big pans.
+* **Boat-builders:** a half-built boat sits in every yard.
+
+### Customs and beliefs
+* **The harbour bell** rings at every turn of the tide; people pause and touch the nearest wood "for luck."
+* **Tide-marks** carved on house corners record great floods.
+* **Superstitions about merfolk:** whistling on a boat brings bad luck (which makes the divers' whistle unsettling to fishers); a merfolk on deck means a storm.
+* **The drowned are "gone out"**: people never say someone died at sea.
+
+### Clothing and look
+Layered wool and oilcloth in rust, ochre, slate and faded blue; knitted sweaters with family patterns; aprons with many pockets; wooden clogs for the flats.
+
+---
+
+## Part 4 · The dockside tongue
+
+Where humans and merfolk work side by side, a mixed language has grown up. She learns it over the game; the town slowly learns her merfolk words too. All words are invented.
+
+| Word | Meaning | From |
 |---|---|---|
-| Nixmill | **Wheel Day** | The water wheel is decorated with ribbons; first flour of the season; races on the millpond |
-| Fisher's Hollow | **Blessing of the Boats** | Boats are painted and floated at flood; the oldest fisher calls each one by name |
-| Swanreach | **The Return** | The swans come back; everyone wears white; silence for one full tide |
-| Undine's Rest | **The Well-wedding** | Couples drop rings into the well to ask the water for a long marriage |
-| The Glass Deep / whole coast | **Lantern Tide** | Lanterns for those who "went out with the tide," set on the water at night |
+| **saltkin** | friend; someone you'd dive with | Mixed |
+| **salt-pup** | a young merfolk (can be rude) | Human |
+| **deepward** | out toward the drop-off; also "seriously" | Mixed |
+| **turn** | the turn of the tide; also "see you soon" | Human |
+| **ulla** | hello / I'm here (said after surfacing) | Merfolk |
+| **shimmer-sick** | homesick | Mixed |
+| **dry-foot** | a human (teasing) | Merfolk |
+| **bloom** | a good haul; good news | Mixed |
+| **stone it** | rest something; leave it alone (from the divers' white stone) | Merfolk |
+| **far-shell** | someone far away or gone; from the shell set aside at meals | Merfolk |
 
-Festivals use small minigames (boat painting, pond races, lantern-folding, stitching) so they're played, not just watched.
+Hearing *"ulla"* from a human shopkeeper in Act 5 is one of the game's quiet payoffs.
 
-## 8. Clothing and look
+---
 
-* **Land people:** layered wool and oilcloth in sand, rust, slate and faded blue; knitted sweaters with family patterns (you can tell someone's family from their sweater); wooden clogs for the flats; aprons with many pockets.
-* **Festival clothes:** white linen, embroidered collars, ribbons in the family's colours.
-* **Nix:** the sea-silk, kelp and pearls on the character sheet. Land people find the outfit beautiful and completely impractical. Over the game Nix may add a land item or two (a knitted shawl, a ribbon), as unlockable cosmetics.
-
-## 9. Architecture
-
-* Houses are built on stone footings because high floods come into the streets. Doors are raised; steps lead up to every entrance.
-* **Tide-marks** are carved on the corner of every house with dates of the great floods.
-* Round windows facing the sea, "so the sea can see in."
-* Boat-shaped roofs on old houses, from a time when people reused hulls.
-
-## 10. Making the world live (systems)
+## Part 5 · Making the world live (systems)
 
 | System | How it works |
 |---|---|
-| **NPC routines** | Each named NPC has a schedule tied to tide level and time of day (dawn, day, dusk, night). Changing the tide changes where they are. |
-| **Ambient life** | Unnamed townsfolk: children playing, dogs, gulls stealing fish, workers carrying baskets, couples on the seawall. |
-| **Overheard talk** | Short lines between NPCs as Nix walks past; they react to recent events (a restored beat, a festival, Nix's latest blunder). |
-| **Town memory** | Towns change visibly as tales are restored: tale-cloths get finished, the half-built boat grows, shops reopen, decorations go up. |
-| **Relationships** | Key NPCs have a friendship level raised by talking, gifts, food and helping. High friendship unlocks their family tale and a keepsake. |
-| **Day/night** | Lamplighters at dusk; tavern stories at night; flat-walkers' lanterns bobbing on the sand on night ebbs. |
-| **Weather** | Rain (refills Breath a little; people run for cover), fog (boats stay in), storms (only in stuck-tale districts until fixed). |
-
-## 11. Cast of everyday people (Nixmill)
-
-| Person | Role | Routine | Their own story |
-|---|---|---|---|
-| **Mira** | Miller's daughter, first friend | Mill at slack, sand market at ebb | Wants to leave the coast and see the world |
-| **Old Wend** | Lighthouse keeper | Lighthouse at night, seawall at slack | Lost his wife to the sea; leaves her an offering every ebb |
-| **Hanne** | Keeper of Endings | Tavern at flood, telling tales | Terrified she's losing her memory |
-| **Bram and Lotte** | Twin flat-walkers, age 9 | Flats at ebb, tidepools any time | Follow Nix everywhere; first to copy the forehead greeting |
-| **Jasper** | Salt-boiler | Salt pans all day | Grumpy; secretly the best cook in town |
-| **Ilse** | Tale-stitcher | Workshop by the square | Has been stitching the same unfinished scene for months |
+| **NPC routines** | Named characters follow schedules keyed to time of day and tide. Divers go out at the turn; fishers return at high tide; the Warming Ring fills in the evening. |
+| **Ambient life** | Unnamed townsfolk and merfolk: kids diving off rocks, dockworkers, gulls stealing fish, couples on the sea wall, merfolk singing at the Shelf. |
+| **Overheard talk** | Short lines as she walks past, reacting to recent events: a council meeting, a good haul, her latest choice. |
+| **Town memory** | The world visibly changes with the story: shell lanterns appear on human porches, a new sign at the Shelf, the Company's pay board is repainted. |
+| **Seasons** | Spring to spring across five acts; weather, light, festivals and routines change with each. |
+| **Language spread** | Background chatter uses more merfolk words as the game goes on. |
+| **Two looks mixing** | Human and merfolk art styles slowly blend in props and decoration. |

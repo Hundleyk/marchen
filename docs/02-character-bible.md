@@ -1,84 +1,89 @@
 # 02 · Character bible: the hero
 
-![Character sheet](concept/character_sheet.png)
+**Main reference:** the "Ocean Child" model reference sheet.
+
+![Character reference v2](concept/character_reference_v2.png)
+
+*Earlier concept, kept for reference:* [character_sheet_v1.png](concept/character_sheet_v1.png)
 
 ## Identity
 
 | | |
 |---|---|
-| **Name** | *Working name:* **Nix**, from the German *Nixe*, a water spirit of the Grimm tales. The sheet leaves the name blank. |
-| **Pronouns** | they/them (per sheet) |
-| **Age** | Ageless; reads as a young adult |
-| **Species** | Tide-born: a spirit the sea shaped into a person so it could go ashore |
-| **Role** | Story-mender, the one who carries stuck tales to their endings |
-| **Motto** | *like the ocean, I am both soft and strong* |
+| **Name** | *Working name:* **Nix**. Open question; see [08 · Roadmap](08-roadmap.md). |
+| **Pronouns** | she/her |
+| **Age** | Young adult |
+| **Species** | Merfolk. On land she walks on legs; in water she swims with them and her fins. |
+| **Role** | Newcomer to Brinehaven; hired diver |
+| **Theme** | *Sea, rebirth, connection* |
 
-## Appearance (from the sheet)
+## Appearance (from the v2 reference)
 
-* **Head:** bald by nature, smooth dome. Large, calm grey-lavender eyes with a winged upper lash line; pale lavender brows; small soft mouth.
-* **Ear fins:** coral-pink, fan-shaped, with darker red rays and a cream base. They sit where ears would be and sweep up and back. A small lower lobe sits beneath each.
-* **Skin:** warm, luminous peach with a faint iridescent sheen. Clear **bubbles** cling to the skin, densest across the top and right side of the scalp, the right cheek, neck and shoulders, scattered down the arms and legs.
-* **Neck:** faint pink gill lines on each side of the throat.
-* **Outfit:** a navy sea-silk bandeau with a scallop shell at the centre; a short navy wrap at the hips; a long skirt of translucent kelp layers in navy, periwinkle, sea green and mist, open at the front and longest at the back; sheer kelp drapes hanging from the upper arms.
-* **Jewellery:** gold chain necklace with pearls, a shell pendant and a sea-glass teardrop; pearl drop earrings under the fins; pearl strands across the torso and hips; shells at the belt; pearl anklets with small crystal drops; barefoot.
-* **Palette:** blush pink · lilac · periwinkle · navy · sea green · sand gold.
-* **Silhouette:** fins plus the flared, ragged skirt. It must read at distance and in shadow.
+* **Head:** bald by nature. Large, calm grey eyes with a soft winged lash line; pale brows; small mouth; light freckles across the nose.
+* **Barnacles and shells:** clusters of small barnacles, tiny shells and pearls grow across the right side of her scalp, around her face, down her neck and over her shoulders, with smaller clusters on her arms and legs. They're part of her body, not jewellery.
+* **Ear fins:** coral-pink and red, webbed like a fish's fin, with pearl drop earrings hanging beneath.
+* **Skin:** warm peach with a faint iridescent sheen.
+* **Outfit:** a twisted top wrap and layered, ragged skirt of translucent sea-silk in lilac, periwinkle, sea green and silver; sheer arm fabric; a spiral shell leg wrap; gold chains with shells and pearls. Barefoot.
+* **Palette:** cream · blush · silver-blue · lilac · periwinkle · sea green · navy · deep slate · gold.
+* **Silhouette:** fins plus the long, ragged skirt.
+
+## Barnacles: what they mean
+
+In merfolk culture, barnacles are how a life is written on the body. A barnacle drifts through open water as a larva, then chooses one place, settles there and holds on for good.
+
+* Merfolk grow a new barnacle when something important takes hold of them: a bond, a home, a vow, a loss.
+* The cluster she arrives with is **her home**: family, her reef, her old life.
+* New barnacles grow during the game as she builds a life in Brinehaven. See *Belonging* in [03 · Core mechanics](03-core-mechanics.md).
+* Some humans find them strange or ugly. Some merfolk worry that her new barnacles mean she's forgetting where she came from.
 
 ## Personality
 
-* **Curious.** Everything on land is new. Nix picks things up, smells them, asks what they're for.
-* **Unhurried.** Speaks and moves like water at rest. Rarely interrupts.
-* **Formal with land customs,** slightly wrong in charming ways (bows to doors, thanks rain).
-* **Warm but direct.** Kind does not mean quiet; Nix will say the true thing.
-* **When angry, the sea is angry.** Rare, and the world reacts (waves rise, light cools).
+* **Hopeful and hard-working.** She came here to build something and won't give up easily.
+* **Observant.** She watches before she acts; she notices how people treat each other.
+* **Quietly proud** of where she comes from. She'll adapt, but she won't erase herself.
+* **Homesick** more than she lets on. It surfaces in letters home and quiet moments.
+* **Funny in a dry way,** especially about human habits that make no sense to her.
 
 ## Backstory
 
-Tales are how the land talks to the sea. When the coast's stories stopped finishing, the tide stopped knowing when to turn, and the sea began to grow restless. It shaped Nix from foam, shell and memory and sent them ashore to find out why. Nix doesn't remember being born; they remember the first wave that carried them, and the sound of a story stopping mid-sentence.
+She grew up on **Coral Hollow**, a reef village far out past the islands. *(Why she left is an open question; current default below.)*
+
+**Default:** the reef has been dying. The water is warming, the fish are leaving, and young merfolk are being sent to the islands to find work and send pearls home. Her aunt went to Brinehaven years ago and wrote that there was work for divers. Then the letters stopped.
+
+She arrives with a letter of introduction to the merfolk community, her aunt's last address, and the cluster of barnacles from home.
 
 ## Voice
 
-* Short sentences. Images from the sea. Never sarcastic.
-* Soft lines: questions, reassurances. Strong lines: statements, promises.
+* Short, plain sentences. Images from the sea. Uses merfolk words when she's emotional.
+* Early in the game her human speech is careful and formal; by the end she's using dockside slang.
 
-| Situation | Soft | Strong |
+| Situation | Early game | Late game |
 |---|---|---|
-| Meeting a scared child | "You're shaking like a tidepool. May I sit?" | "Nothing is taking you anywhere. I'm here." |
-| A stuck villager | "Tell me where your story stopped." | "Your story is going to end today." |
-| An Unfinished creature | "Hush. Go back to the foam." | "Break." |
+| Greeting a dockworker | "Good morning. I am looking for work, please." | "Morning, saltkin. Water's clear today." |
+| Told she can't come in | "...I understand." | "I heard you. I'm still coming in." |
+| Talking about home | (changes the subject) | "Let me tell you about the reef." |
 
 ## Expressions
 
-Six expressions from the sheet, used in dialogue portraits and in-world on the model's face.
+The six expressions from the reference sheet, used in dialogue portraits and on the in-game model.
 
 | Expression | When it's used |
 |---|---|
-| Neutral | Default; idle; listening |
-| Happy (eyes closed, open smile) | Beat restored, gift received, Breath refilled after a long dry stretch |
-| Concerned | Someone is hurt or scared; Breath under 25% |
-| Surprised | Thread discovered; tide changes unexpectedly |
-| Sad | A tale's ending is bittersweet; failing a Soft approach |
-| Angry | Strong stance under threat; the Unfinished erasing someone |
-
-## How the look drives gameplay
-
-| Sheet element | Mechanic |
-|---|---|
-| Bubbles on the skin | **Breath** (stamina). Bubbles pop as it's spent and re-form in seawater. |
-| Ear fins | **Listen** (reveals threads); fins flare as a danger tell. |
-| Fin and skin colour | Stance indicator: cooler in Soft, warmer coral in Strong. |
-| Kelp skirt and drapes | Movement read: float upward in water, snap back on Surge. |
-| Shells and pearls | Story rewards; each finished tale adds one to the necklace. |
-| Expressions | Dialogue and in-world reactions. |
+| Neutral | Default; listening; working |
+| Happy | A friend made, a good dive, a festival moment |
+| Concerned | Low breath; someone in trouble; a tense meeting |
+| Surprised | Discoveries; strange human customs |
+| Sad | Letters from home; being turned away |
+| Angry | Injustice toward the merfolk; being underpaid or insulted |
 
 ## 3D modelling brief
 
-For whoever builds the in-game model (artist, contractor or an image-to-3D pass with cleanup):
+The v2 reference was made for 3D and is the input for building the model (artist, contractor or an image-to-3D pass such as Hunyuan 3D, with cleanup).
 
-* **Style:** stylised anime, soft forms, about 7.5 heads tall, slender.
-* **Budget:** 30–45k triangles hero model; face at least 2k; bubbles as a separate mesh or decals so they can be hidden in groups.
-* **Rig:** standard humanoid (Godot `SkeletonProfileHumanoid` compatible), A-pose. Extra bones: 2 per ear fin (flare), spring-bone chains for 8–12 kelp strips and the arm drapes.
-* **Face:** texture-swap or blend-shape expressions for all six expressions above.
-* **Materials:** skin with subtle iridescence; translucent kelp (alpha-scissor friendly); pearl and shell with a nacre sheen; sea-glass.
-* **Bubble groups:** split into ~24 clusters, ordered so head clusters go last (low Breath stays readable).
+* **Style:** stylised anime realism, soft forms, about 7.5 heads tall.
+* **Budget:** 35–50k triangles for the hero; face at least 3k.
+* **Barnacles:** a separate mesh split into groups, so new clusters can be revealed as she gains belonging (see 03).
+* **Rig:** standard humanoid (Godot `SkeletonProfileHumanoid`), A-pose. Extra bones for ear fins (flare when surfacing or surprised) and spring-bone chains for skirt layers and arm fabric.
+* **Face:** texture swaps or blend shapes for all six expressions; a mouth shape for the surfacing breath whistle.
+* **Materials:** iridescent skin; translucent sea-silk (alpha-scissor friendly); shell, pearl and barnacle with nacre sheen; gold.
 * **Deliverables:** `.blend` source, `.glb` export, textures, turnaround renders.

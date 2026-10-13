@@ -2,60 +2,60 @@
 
 ## Principles
 
-1. **The body is the HUD.** Breath, stance and danger are shown on Nix, not on screen.
-2. **Storybook frame.** Menus look like pages of a fairy-tale book: cream paper, soft watercolour washes, handwritten script beside clean sans type (matches the extraordinary. games brand).
-3. **Nothing urgent unless it's urgent.** No timers on screen; no flashing alerts outside encounters.
+1. **The body is the HUD.** Belonging shows as barnacles on her model; fatigue shows in how she moves.
+2. **A diver's notebook.** Menus look like her own journal: waterproof oilcloth cover, pages of sketches, pressed seaweed and dockside words written in two scripts.
+3. **Calm by default.** No timers except Breath underwater. No pop-up spam.
 
-## In-game HUD
+## HUD
 
 | Element | Where | Behaviour |
 |---|---|---|
-| Breath | On Nix (bubble clusters) | Below 25%: a faint ring of bubbles appears around the screen edge and Nix's expression goes Concerned |
-| Stance | On Nix (fin and skin tint) + a small shell icon bottom-left | Icon flips lilac/coral on Q; fades after 2 s |
-| Tide level | Small wave glyph bottom-left beside stance | Shows Ebb / Slack / Flood; animates during transitions |
-| Interaction prompt | Above the object | Key glyph + verb ("E · Soothe") |
-| Thread marker | In world | Glows only in Listen mode; a faint shimmer outside it once discovered |
-| Pearl pickup | Top-right toast | "Pearl 4/10", 2 s |
+| **Breath** | Ring around a small shell icon, bottom-centre, underwater only | Drains with depth; pulses and the screen edge cools below 25% |
+| **Depth** | Small number next to Breath | Shows metres; turns blue past 30 m |
+| **Tide and time** | Small dial, top-left | Shows tide (low / high / turn) and time of day; hides on land after 3 s |
+| **Haul** | Top-right while diving | "Oysters 6 / 10" |
+| **Interaction prompt** | Above the object | Key glyph + verb |
+| **New word** | Toast, bottom-left | "New word: *saltkin*" |
 
-Toggle: **HUD minimal** hides stance and tide icons entirely (body reads only).
+**Minimal HUD** option hides everything but Breath.
+
+## The journal (Tab)
+
+Tabs like a real notebook:
+
+* **Letters:** letters from home and from friends; write replies by picking phrases.
+* **People:** everyone she's met, with a sketch, what she knows about them, and friendship progress.
+* **Words:** the dockside tongue: each word, its meaning, where it came from (human, merfolk or mixed) and who taught it.
+* **Customs:** human and merfolk customs she's learned, with notes in her voice.
+* **Barnacles:** a drawing of her with each barnacle cluster labelled, and the memory attached to it.
+* **Map:** a hand-drawn chart; islands and underwater zones fill in as she explores.
+* **Settings.**
+
+## Dialogue
+
+* Portrait panel bottom-left with one of six expressions; the 3D model's face matches.
+* Name, then text with a soft typewriter reveal (skippable).
+* **Highlighted words** are dockside or merfolk words; hovering shows the meaning if she knows it.
+* Early on, some choices are greyed with *"(don't know the words yet)"*. More open up as her vocabulary grows.
+* Choice tone is shown by a small icon (polite, honest, proud, joking), never by colour alone.
 
 ## Screens
 
-### Title
-* Cream page; the coast painted in watercolour; the title in handwritten script.
-* *Continue · New Tale · Settings · Quit*
-* A gentle wave animates across the bottom; music is the hub theme on harp.
-
-### Pause / Journal (Tab)
-A book with tabs:
-* **Tales:** each district as a page; stuck beats listed with a small illustration that fills in as restored.
-* **Map:** a hand-drawn coast; districts unlock as discovered; tide state shown per district.
-* **Keepsakes:** items and tale memories (Soft/Strong rewards).
-* **Necklace:** the shells collected, with ability descriptions.
-* **Settings.**
-
-### Dialogue
-* Portrait panel bottom-left showing one of the six expressions.
-* Name in script, text in sans, typewriter reveal (skippable).
-* Choices appear as two shells: **lilac (Soft)** on the left, **coral (Strong)** on the right. Neutral options sit in the middle.
-* The in-world model's face swaps to match the portrait.
-
-### Tale ending
-* The screen folds into storybook panels (3–5 illustrated stills) with narrated text.
-* Ends on the new shell joining the necklace, with the ability unlock card.
+* **Title:** her silhouette surfacing beside the pier at dawn; the title in soft script.
+* **Pause:** the journal.
+* **Act cards:** each act opens with a painted card of the season and her letter home.
+* **Festival:** a special mode with lantern folding, invitations and the night itself.
 
 ## Controls
 
 | Action | KB/M | Gamepad |
 |---|---|---|
-| Move | WASD | Left stick |
+| Move / swim | WASD | Left stick |
 | Camera | Mouse | Right stick |
-| Jump / float (hold) | Space | A |
-| Glide (Soft) / Surge (Strong) | Shift | B |
-| Switch nature | Q | Y |
-| Interact / tide stone / soothe (hold) | E | X |
-| Listen (hold) | F | LB |
-| Wave push | LMB | RT |
+| Jump / swim up | Space | A |
+| Dive down | Ctrl / C | B |
+| Swim fast | Shift | Left stick click |
+| Interact / gather | E | X |
 | Journal | Tab | Select |
 | Pause | Esc | Start |
 
@@ -63,21 +63,9 @@ All bindings remappable.
 
 ## Accessibility
 
-* **Breath bar option:** a conventional bar for players who can't read the bubble meter.
-* **Colour-safe stance:** stance also shown by shape (round shell = Soft, spiked shell = Strong), never colour alone.
-* **Hold-to-toggle** for Listen, Soothe and Glide.
-* **Subtitles** on by default, with speaker names and size options.
-* **Camera:** sensitivity, invert, reduce camera drift (turns off the underwater sway).
-* **Motion:** reduce screen-edge bubble effect and wave transitions.
-* **Encounter assist:** the Stopped's patterns slow by 30%; Unfinished push without Breath loss.
-
-## Feedback language
-
-| Event | Visual | Audio |
-|---|---|---|
-| Breath spent | Bubble pops off | Pitched pop in the district's key |
-| Breath refilled | Bubbles re-form with a shimmer | Rising glassy chime |
-| Stance switch | Tint wave across Nix | Soft: harp gliss; Strong: low cello stab |
-| Tide change | Wave front sweeps the district | Long surf swell |
-| Thread found | Glow + fins flare | Single celesta note |
-| Beat restored | Freeze-frame releases | District theme gains a layer |
+* **Breath assist:** slower drain or no drain.
+* **Subtitles** on by default, with speaker names and size options; captions for the surfacing whistle and ambient sounds.
+* **Word helper:** always show meanings of highlighted words.
+* **Swim assist:** auto-level underwater; option to reduce camera sway.
+* **Colour-safe:** depth and Breath warnings use shape and sound, not only colour.
+* **Content note** at the start explaining the game includes themes of discrimination and displacement, handled gently.

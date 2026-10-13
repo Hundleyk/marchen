@@ -1,66 +1,81 @@
 # 01 · Overview
 
-**Märchen by the Sea** · 3D third-person tide-puzzle adventure · Godot 4 · PC first · extraordinary. games
+**Märchen by the Sea** · 3D third-person story-driven life and exploration game · Godot 4 · PC first · extraordinary. games
 
-> *like the ocean, I am both soft and strong.*
+> *Ocean Child: sea, rebirth, connection.*
 
 ## High concept
 
-A tide-born spirit washes ashore on a coast where the old fairy tales have stopped finishing. Every village is stuck mid-story: the siblings are always about to escape, the swans are always about to land. The hero moves between **Soft** and **Strong**, the two natures of the sea, to raise and lower the tide, reshape the coast, and carry each story to its ending.
+A young mermaid leaves the sea to start a new life in **Brinehaven**, a human harbour town on a chain of islands. She finds work the only way merfolk usually can: as a diver, doing the deep, dangerous work humans can't. Between dives she explores the islands, finds her place in the small merfolk community at the edge of town, learns the dockside language, and slowly becomes part of a town that isn't sure it wants her.
 
-**Pitch:** a cozy, curious seaside adventure where your stamina is the bubbles on your skin and the level geometry is the tide.
+**Pitch:** a cozy, story-driven island game about an immigrant mermaid diver, inspired by the real island divers and seafaring immigrants who built coastal towns around the world.
 
-**Mood:** quiet, luminous and a little bittersweet. Sunlight through water, sleepy harbour towns, small moments that matter. The feeling of *Nagi no Asukara* is a mood reference only; the world and story are our own.
+**Mood:** quiet, luminous and a little bittersweet. Sunlight through water, harbour towns at golden hour, small moments that matter.
+
+## Story arc
+
+**Arrival → Work → Community → Conflict → Belonging**
+
+She arrives with nothing but a letter of introduction. She earns her place as a diver, finds the merfolk community, gets caught up in the town's tensions over who the sea and the cove belong to, and helps both peoples find a way to share them. The game ends with the whole town celebrating the festival she brought from home.
 
 ## Design pillars
 
-1. **Soft and strong.** Every problem has a gentle answer and a forceful one. Neither is the "right" one, and the game never punishes either.
-2. **The tide is the level.** One space plays completely differently at ebb and at flood. Tide state is the main puzzle variable.
-3. **Read it on the body.** Resources, stance and mood show on the character (bubbles, fins, expression), not in HUD clutter.
-4. **Stories, not bosses.** You win a district by finishing its tale, not by defeating something.
-5. **A living coast.** The towns have their own culture, routines, food and festivals, and they'd go on without you. See [09 · Culture and daily life](09-culture-and-daily-life.md).
+1. **A newcomer's eyes.** The player discovers the town's culture exactly as she does: confused at first, then fluent, then at home.
+2. **Two cultures, both real.** The human town and the merfolk community each have their own customs, language, work and festivals. Neither is the "default."
+3. **The sea is her advantage.** Diving and underwater exploration are what she can do that no one else can, and the heart of the gameplay.
+4. **Belonging is earned, and shown.** Relationships, words learned and community built show up on her body (new barnacles) and in the town (the festival grows).
+5. **Honest, but hopeful.** The game doesn't pretend prejudice isn't there. The cozy feeling comes from community holding together, not from ignoring hardship.
 
-## Player fantasy
+## Historical inspiration
 
-Being the sea in a person's shape: unhurried and gentle until something matters, then overwhelming. Fixing things by understanding them.
+The game draws on real patterns from island and seafaring immigrant communities:
+
+* **The hard water jobs:** immigrants were often hired for dangerous diving, whaling and fishing work, valued for their skill but underpaid and kept as outsiders.
+* **Mutual aid:** communities built halls, churches and aid societies to look after each other.
+* **Home festivals** that the host town eventually adopted as its own.
+* **Mixed dockside languages** born from people working side by side.
+* **Discrimination,** sometimes severe.
+
+The diving culture is most closely inspired by the **haenyeo**, the women free-divers of Jeju Island, South Korea. Also the Japanese **ama** divers, the Greek sponge divers of Tarpon Springs, and the multicultural pearling town of Broome, Australia. See [09 · Culture and daily life](09-culture-and-daily-life.md) for how we use these respectfully.
 
 ## Audience
 
-* Players of cozy-adventure and exploration games who want light challenge and strong atmosphere.
-* Fans of fairy tales, folklore retellings and soft anime art.
-* Session length: 20–45 minutes; one district beat per session feels complete.
+* Players of cozy and story-driven exploration games who want a meaningful story and a world that feels lived-in.
+* Fans of soft anime art, ocean settings and character-focused writing.
+* Session length: 30–60 minutes; one in-game day per session feels complete.
 
 ## Comparables
 
-| Game | What we take | What we do differently |
+| Work | What we take | What we do differently |
 |---|---|---|
-| *A Short Hike* | Small, warm, explorable space; light traversal mastery | Tide reshapes the map; story-repair goal |
-| *Breath of the Wild* | Curiosity-driven routes; stamina as traversal limit | Stamina is diegetic (bubbles on the body); no combat focus |
-| *Spiritfarer* | Gentle tone, caring for characters | 3D, puzzle-led, fairy-tale structure |
-| *Ōkami* | Folklore world healed by the hero | Stance duality instead of brush powers |
+| *Spiritfarer* | Gentle tone, caring for a community, bittersweet arcs | 3D, underwater exploration, an immigrant story |
+| *A Short Hike* | Small, warm, explorable islands | Diving, an underwater half of the world |
+| *Dave the Diver* | Diving as the core loop | No combat or restaurant; story and community first |
+| *Abzû* | Beautiful, calm underwater exploration | A town to live in above the water |
+| *Unpacking* | Small personal moments carry the story | A full world to explore |
 
 ## Unique selling points
 
-1. **The tide as a level editor.** Three water levels per district; the player chooses when to change them.
-2. **Diegetic stamina.** Bubbles pop off the hero as Breath is spent and re-form in seawater.
-3. **Dual-nature solutions.** Every stuck story beat can be solved Soft or Strong, with different dialogue and side rewards.
-4. **Public-domain fairy tales retold from the sea's side.** Grimm, Andersen and Fouqué water stories, finished at last.
+1. **An immigrant story told with warmth.** Rare in games, and grounded in real history.
+2. **Two worlds in one map.** Every island has a surface and an underwater side.
+3. **Belonging you can see.** Her barnacles grow as she builds a life; the festival grows as both peoples join in.
+4. **A culture to learn.** Dockside words, customs and rites that the player actually picks up.
 
 ## Scope at a glance
 
-* 1 hub (the hero's tide-side home) + 5 districts along one shoreline.
-* ~5 hours main path, ~8 hours with side threads.
-* Vertical slice target: the tutorial district **Nixmill**, 20–30 minutes. See [05 · Level: Nixmill](05-level-nixmill.md).
+* 1 home island (Brinehaven and the merfolk cove) + 5 other islands + underwater zones between them.
+* ~8–10 hours main story; one in-game year, told in 5 acts.
+* Vertical slice target: **Act 1, Arrival** (45–60 min). See [05 · First chapter](05-first-chapter.md).
 
 ## Document map
 
 | Doc | Covers |
 |---|---|
-| [02 · Character bible](02-character-bible.md) | The hero: look, personality, voice, expressions, modelling brief |
-| [03 · Core mechanics](03-core-mechanics.md) | Soft/Strong, Breath, tide, Listen, threads, the Unfinished, tuning numbers |
-| [04 · World and narrative](04-world-and-narrative.md) | The coast, the five tales, the ending |
-| [05 · Level: Nixmill](05-level-nixmill.md) | Vertical-slice level walkthrough |
-| [06 · UI and UX](06-ui-ux.md) | HUD, menus, dialogue, controls, accessibility |
+| [02 · Character bible](02-character-bible.md) | The hero: look, personality, backstory, expressions, modelling brief |
+| [03 · Core mechanics](03-core-mechanics.md) | Diving, breath, the tide, belonging, language, the day |
+| [04 · World and narrative](04-world-and-narrative.md) | The islands, the five acts, cast, ending |
+| [05 · First chapter](05-first-chapter.md) | Vertical-slice walkthrough |
+| [06 · UI and UX](06-ui-ux.md) | HUD, journal, dialogue, controls, accessibility |
 | [07 · Art and audio](07-art-audio.md) | Visual style, camera, music, sound |
 | [08 · Roadmap](08-roadmap.md) | Milestones, Godot structure, open questions |
-| [09 · Culture and daily life](09-culture-and-daily-life.md) | Customs, food, trades, festivals, NPC routines, the living world |
+| [09 · Culture and daily life](09-culture-and-daily-life.md) | Both cultures, the diving community, language, festivals, inspirations |

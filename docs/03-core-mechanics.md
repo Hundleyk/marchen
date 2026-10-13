@@ -1,126 +1,136 @@
 # 03 · Core mechanics
 
-All numbers are starting values for prototyping, meant to be tuned.
+All numbers are starting values for prototyping, meant to be tuned. Nothing here is grindy: every system either moves the story, deepens a relationship, or opens new places.
 
 ## Core loop
 
 ```
-Arrive in a district (tide stuck)
-  → Listen: find loose threads (stuck story beats)
-  → Explore at different tide levels, Soft or Strong
-  → Restore each beat (puzzle / dialogue / soothe or scatter the Unfinished)
-  → All beats done → tale ending plays → shell on necklace, ability upgrade
-  → Tide in that district starts turning on its own → next district
+Morning: dive at the turn of the tide (work)
+  → Day: explore an island or underwater zone; meet people; follow story threads
+  → Evening: the merfolk shelter, the harbour, letters home
+  → New words, new bonds → new barnacles → new places and story beats open
 ```
 
-Moment to moment: **move → spend Breath → find water → refill → move.**
+## 1. Diving (the heart of the game)
 
-## 1. Soft and Strong (stance)
+She's merfolk, so she can stay under far longer than any human. But deep, cold water still takes it out of her, and the work is hard.
 
-Tap **Q** to switch. Switching is instant, costs nothing and has a 0.4 s cooldown. Fins, skin sheen and kelp tint shift (cool lilac for Soft, warm coral for Strong).
+### Breath
+* Underwater she has a **Breath** reserve that drains faster the deeper she goes.
 
-| | **Soft** (ebb) | **Strong** (flood) |
+| Depth | Zone | Breath drain |
 |---|---|---|
-| Ground speed | 4.5 m/s walk, 6.0 run | 4.0 walk, 8.0 sprint |
-| Jump | Float-jump 2.4 m; hold to hang 0.6 s | Heavy jump 1.6 m; ground slam on landing |
-| Air | **Glide** (hold Shift): fall 1.2 m/s, 7 m/s forward | **Surge** (Shift): 6 m dash, 0.25 s, breaks brittle walls |
-| Swim | 7 m/s, can ride currents | 5 m/s, can swim *against* currents |
-| Tide stones | **Lower** the tide one level | **Raise** the tide one level |
-| Water action | Calm a whirlpool or current | **Wave push** (LMB): shove objects 4 m |
-| People | Comfort / coax / listen dialogue options | Insist / protect / confront dialogue options |
-| The Unfinished | **Soothe** (hold E near one, 2 s): returns it to foam permanently | **Scatter** (Surge or wave push): gone instantly, re-forms after 60 s |
+| 0–10 m | Shallows | Very slow (2 min+) |
+| 10–30 m | Reef and banks | Normal (~90 s) |
+| 30–60 m | The drop-off | Fast (~45 s); cold tint on screen |
+| 60 m+ | The deep | Only with upgrades and the right season |
 
-**Design rule:** every stuck beat must be solvable in either stance. Soft routes are usually slower and safer; Strong routes are faster and messier. Each route gives a different small reward (a dialogue memory vs. a found item).
+* **Surfacing** fully refills Breath, with her signature **surfacing whistle**: a long, high breath out. It's a merfolk diver's sound, and other divers whistle back.
+* Running out of Breath doesn't kill her; she's forced to the surface, drops part of her haul, and is tired for the rest of the day (slower swim).
+* Breath capacity grows through training dives with the elder divers and through belonging (see 4).
 
-## 2. Breath (the bubble meter)
+### Dive work
+Each morning the harbour or the merfolk community offers dive jobs:
 
-Breath lives on the hero's body as **24 bubble clusters**. There is no on-screen bar.
-
-| Action | Cost |
+| Job | What you do |
 |---|---|
-| Glide | 1 cluster per 1.5 s |
-| Surge | 4 clusters |
-| Float-jump hang | 1 cluster |
-| Wave push | 3 clusters |
-| Listen | 1 cluster per 2 s held |
-| Soothe | 2 clusters |
-| Hit by an Unfinished | lose 3 clusters, knocked back 3 m |
+| **Pearl beds** | Find and open oysters on the banks; most pearls go to the company |
+| **Shellfish and sea-greens** | Gather abalone, urchins and seaweed; the merfolk's own harvest |
+| **Salvage** | Recover lost cargo, anchors and heirlooms from wrecks |
+| **Repairs** | Fix pier pilings, nets and moorings underwater |
+| **Search** | Find something or someone lost; these are usually story beats |
 
-| Source | Regen |
-|---|---|
-| Standing or swimming in **seawater** | 6 clusters/s |
-| Rain | 1 cluster per 2 s |
-| Sea-spray zones (rocks, piers) | 1 cluster/s |
-| Fresh water (wells, rivers) | none, and it's flagged in Nix's dialogue |
+* Jobs come with **pay** (shells, the town's currency), but pay is mainly a story device. The company pays merfolk divers less than humans for the same work, and the game lets you notice that.
+* Money buys a few things that matter: rent, boat passage, gear, and pearls to send home.
 
-* Clusters pop in a fixed order: legs → arms → shoulders → head. The last 6 clusters are on the head, so low Breath is always readable.
-* **At 0 Breath** Nix can walk, swim slowly, talk and use tide stones, but no abilities. No death from Breath.
-* Max Breath grows to 32 via shells (see Progression).
+### Diving rules and seasons
+The merfolk divers' community sets rules for every dive ground:
+* **Closed grounds:** some beds are rested for a season so they recover.
+* **Elders' waters:** shallow, easy grounds are left for older divers.
+* **Season opening:** some grounds only open after the spring rite.
+
+Breaking the rules is possible, but the community notices, and it costs belonging.
+
+## 2. Exploration
+
+* **On land:** third-person walking, climbing low walls, jumping between rocks and piers.
+* **In water:** full 3D swimming with fast dives and surface swimming.
+* **Between islands:** swim, catch a ride on a ferry or fishing boat, or (later) use a small boat of her own.
+* Every island has a **surface side** and an **underwater side** with different people, places and secrets.
+* **Map:** she buys a rough chart in Act 1; places she explores get drawn in. Some underwater areas aren't on any human map.
 
 ## 3. The tide
 
-Each district has **three tide levels** and 1–3 **tide stones**.
+The islands run on the tide.
 
-| Level | Water height | What opens |
-|---|---|---|
-| **Ebb** (low) | −1.5 m | Tidepools, sea caves, sunken streets, the seabed |
-| **Slack** (mid) | 0 m (default on arrival) | Normal town, piers usable |
-| **Flood** (high) | +2.0 m | Rooftop islands, boats float free, swim routes link areas |
+| Tide | Effect |
+|---|---|
+| **Low** | Tidepools, sandbars and sea caves open; walking routes between some islands; shallow beds exposed for older divers |
+| **High** | Boats run; pier-side jobs; deeper water reaches the town's lower streets |
+| **The turn** | Best diving: clearest water, calmest current. Divers go out at the turn. |
 
-* Using a stone in Soft lowers one level; in Strong raises one level. 3 s transition with a visible wave front.
-* Tide level persists per district. After a district's tale is finished, its tide **cycles on its own** (3 minutes per level) unless the player uses a stone.
-* NPCs and objects react: boats rise, crabs scuttle into the open at Ebb, gulls perch on high roofs at Flood.
+The tide follows a fixed in-game schedule (two tides per day). Some story beats and places only happen at one tide.
 
-**Puzzle verbs the tide enables:** float an object up to a ledge; strand an object on the seabed; open or seal a cave; create a swim route; reveal or drown a path.
+## 4. Belonging
 
-## 4. Listen and threads
+Belonging is the game's main progression. It isn't a number on screen; it shows on her body and in the world.
 
-* Hold **F**: world desaturates, ambient music drops to the district's tide song, Nix's fins flare.
-* **Loose threads** glow within 25 m: the objects at the heart of a stuck beat (a dropped comb, an unsent letter, a half-sewn shirt).
-* Interacting with a thread starts that beat and adds it to the journal.
-* Listen also reveals **currents** (swim routes) and **brittle walls** (Surge targets).
+**How it grows:**
+* Friendships with named characters.
+* Words learned (see 5).
+* Customs understood (both human and merfolk).
+* Helping the merfolk community.
+* Story chapters completed.
 
-## 5. Story beats
+**How it shows:**
+* **New barnacles.** Each major bond or milestone grows a new cluster on her model (around 20 across the game). Each one has a small memory attached; inspecting it in the journal shows who or what it's for.
+* **How people treat her.** Shopkeepers greet her by name; children copy her greetings; doors that were closed open.
+* **The festival** (see 6).
 
-A beat is a small objective tied to one moment of the tale. Each district has 3–5 beats.
+**What it unlocks:** new dialogue and story beats, larger Breath, access to closed dive grounds, invitations to events and homes, and her own boat.
 
-**Beat template:**
-1. **Thread:** the stuck object or person.
-2. **Obstacle:** something the tide, a stance ability or a dialogue choice resolves.
-3. **Two routes:** a Soft solution and a Strong solution.
-4. **Restoration:** a 5–10 s in-world vignette where the frozen moment completes.
+## 5. Language: the dockside tongue
 
-Example (Nixmill): *The Thrown Comb*. The fleeing sister's comb hangs in the air over a channel, frozen. Soft: lower the tide, walk the seabed and float-jump up to catch it. Strong: raise the tide, swim against the current and wave-push the comb free.
+Brinehaven's docks have their own mixed language: human and merfolk words blended together by people who work side by side.
 
-Glide and wave push are unlocked by shells (see Progression); beats that come before an unlock either avoid that ability or lend it for that beat only.
+* She learns words by hearing them in conversation (they're highlighted the first time) and by asking about them.
+* Words go into the journal with their meaning and who taught them.
+* Some people only open up, or some options only appear, if she knows the right words.
+* Early on, dialogue choices are limited and formal; as her vocabulary grows, she gets more expressive options.
+* Over the game, humans start using **her** merfolk words too. You hear it in background chatter.
 
-## 6. The Unfinished
+See [09 · Culture and daily life](09-culture-and-daily-life.md) for the word list.
 
-Creatures of torn pages and sea-foam that gather where stories stall. They never kill; they **erase** (knock Breath off, push Nix back) and block paths.
+## 6. The festival
 
-| Type | Behaviour | Soft answer | Strong answer |
-|---|---|---|---|
-| **Foamling** | Drifts toward Nix, slow | Soothe (2 s) | One Surge or push |
-| **Page-gull** | Swoops from above, steals a thread item | Calm by standing still in Listen | Wave push it out of the air |
-| **Inkwell** | Stationary pool that spreads at Ebb, shrinks at Flood | Lower tide and soothe its core | Raise tide to drown it |
-| **The Stopped** (district guardian) | A huge half-written figure; patterned attacks | Complete its sentence via dialogue under pressure | Break its pages with Surge between patterns |
+She brings one tradition from home: **the Lighting of the Water**, a night when merfolk set glowing shells and lanterns on the sea to welcome the spring current and remember those far away.
 
-## 7. Progression
+| Act | What happens |
+|---|---|
+| 1 | She lights a single shell alone off the end of the pier |
+| 2 | The merfolk community joins; a few humans watch from the pier |
+| 3 | Her friends among the humans come; some bring lanterns |
+| 4 | The council bans it from the harbour (part of the conflict) |
+| 5 | The whole town lights the water together |
 
-* **Shells** (one per finished tale) go on the necklace and unlock or upgrade abilities:
+Each year's festival is played: gathering shells for lanterns, folding lanterns, inviting people, and the night itself.
 
-| Tale | Shell | Unlock |
-|---|---|---|
-| Nixmill | Comb shell | Glide |
-| Fisher's Hollow | Storm pearl | Wave push |
-| Swanreach | Feather shell | Float-jump hang +0.6 s |
-| Undine's Rest | Well crystal | Listen range 25 → 45 m; see threads through walls |
-| The Glass Deep | Final shell | The tide turns everywhere (ending) |
+## 7. Relationships
 
-* **Pearls** (side collectibles, ~10 per district): every 5 pearls = +2 max Breath (cap 32).
-* **Tale memories** (from Soft routes) and **found keepsakes** (from Strong routes) fill the journal and unlock home decorations.
+* About 12 named characters with their own short arcs (see [04](04-world-and-narrative.md)).
+* Time spent, help given, dives done together and gifts (things found while diving) build friendship.
+* Each full friendship ends with a personal scene and a barnacle.
+* Letters: friends and family back home write to her; she can write back by picking phrases.
 
-## 8. Failure and checkpoints
+## 8. The day
 
-* No deaths. Falling into deep water outside the play area washes Nix back to the last tide stone.
-* The Stopped can "erase" Nix fully (0 Breath + hit): fade to foam, restart the encounter phase with full Breath.
+* One in-game day ≈ 25–30 minutes.
+* **Morning:** dive job at the turn of the tide.
+* **Day:** free time: explore, meet people, follow story beats.
+* **Evening:** the merfolk shelter or the harbour; story scenes; letters.
+* **Night:** sleep at her room (saves the game). Some special events at night.
+* No penalty for "wasting" a day. No energy bar outside Breath.
+
+## 9. No combat
+
+There's no fighting. Danger comes from the sea (currents, cold, depth, storms) and from people (being turned away, cheated, threatened). Challenges are solved by diving skill, exploration and relationships.
