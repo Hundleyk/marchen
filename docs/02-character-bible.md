@@ -13,7 +13,7 @@
 | **Name** | *Working name:* **Nix**. Open question; see [08 · Roadmap](08-roadmap.md). |
 | **Pronouns** | she/her |
 | **Age** | Young adult |
-| **Species** | Merfolk. On land she walks on legs; in water she swims with them and her fins. |
+| **Species** | Merfolk. She has legs, as on the reference sheet, on land and in water; no tail and no transformation. She swims with a strong, fluid leg kick, steering with her arms and ear fins. |
 | **Role** | Newcomer to Brinehaven; hired diver |
 | **Theme** | *Sea, rebirth, connection* |
 

@@ -56,10 +56,13 @@ marchen/
 | Heavy themes overwhelm cozy | Every act balances tension with friendships, discoveries and quiet evenings |
 | Scope (5 acts, 6 places) | Act 1 slice first; reuse dive jobs and NPC systems across islands |
 
+## Decided
+
+* **Legs, no tail.** She has legs on land and in water, exactly as on the reference sheet. No transformation.
+
 ## Open questions
 
 1. **Her name.** Keep *Nix*, or something else?
 2. **Why she left home.** Current default: her reef is dying and young merfolk are sent to find work. Keep, or change?
-3. **Legs or tail?** Current default: legs on land and in water (as on the reference sheet). Or does she change form?
-4. **The aunt.** Keep the missing-aunt thread as the personal mystery?
-5. **Platforms.** PC only, or also Steam Deck / console?
+3. **The aunt.** Keep the missing-aunt thread as the personal mystery?
+4. **Platforms.** PC only, or also Steam Deck / console?
