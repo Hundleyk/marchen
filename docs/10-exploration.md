@@ -135,7 +135,8 @@ Rare shells and pearls found exploring, used for festival lanterns and gifts (no
 | **Kelpcrown Atoll** | A ring of rocks and a half-empty merfolk settlement | Ancient merfolk ruins, carvings, a lagoon | The history of merfolk on the islands |
 | **The Pearl Banks** | Company boats and buoys | Oyster beds, the old turtle | Pearls; signs of the Company cutting corners |
 | **The Drowned Quarter** | Only chimney tops at low tide | Sunken streets, the town hall, the clock tower | The founders' charter |
-| **The Drop-off** | Open sea, passing ships | Blue fading to black; whales; marine snow in winter | Where the way home begins |
+| **The Drop-off** | Open sea, passing ships; Company boats at night | Blue fading to black; whales; marine snow in winter | Where the way home begins |
+| **The Far Reefs** | Open ocean beyond the drop-off | Untouched reefs, then raw dredge scars heading toward Coral Hollow | The dredging operation (Act 3) |
 
 ---
 

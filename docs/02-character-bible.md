@@ -46,9 +46,16 @@ In merfolk culture, barnacles are how a life is written on the body. A barnacle 
 
 ## Backstory
 
-She grew up on **Coral Hollow**, a reef village far out past the islands. *(Why she left is an open question; current default below.)*
+She grew up on **Coral Hollow**, a reef village far out past the islands, beyond the drop-off.
 
-**Default:** the reef has been dying. The water is warming, the fish are leaving, and young merfolk are being sent to the islands to find work and send pearls home. Her aunt went to Brinehaven years ago and wrote that there was work for divers. Then the letters stopped.
+**Why she left:** Coral Hollow is dying, for two reasons.
+
+1. **The water is warming.** For years the coral has been slowly bleaching and the fish have been leaving. Young merfolk began going to the islands to find work and send pearls home.
+2. **Someone is stripping it.** Lately whole sections of the reef have been torn away in the night, faster than any warming could do. Nobody at home knows why. *(The truth: the Harbour Pearl Company has worn out the near Pearl Banks and is secretly dredging the far reefs beyond the drop-off, including Coral Hollow. She learns this during the game.)*
+
+Her aunt Maren went to Brinehaven years ago and wrote that there was work for divers. Then the letters stopped. The hero goes to find work, send help home, and find out what happened to Maren.
+
+**The irony at the heart of the story:** the job she takes to save her home, diving for the Company, is part of what's destroying it.
 
 She arrives with a letter of introduction to the merfolk community, her aunt's last address, and the cluster of barnacles from home.
 

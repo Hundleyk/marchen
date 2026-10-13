@@ -59,10 +59,9 @@ marchen/
 ## Decided
 
 * **Legs, no tail.** She has legs on land and in water, exactly as on the reference sheet. No transformation.
+* **Why she left home.** Her reef is dying from warming water, and lately from the Harbour Pearl Company secretly dredging the far reefs. The job she takes to save home is part of what's destroying it. Aunt Maren found out and was silenced.
 
 ## Open questions
 
 1. **Her name.** Keep *Nix*, or something else?
-2. **Why she left home.** Current default: her reef is dying and young merfolk are sent to find work. Keep, or change?
-3. **The aunt.** Keep the missing-aunt thread as the personal mystery?
-4. **Platforms.** PC only, or also Steam Deck / console?
+2. **Platforms.** PC only, or also Steam Deck / console?

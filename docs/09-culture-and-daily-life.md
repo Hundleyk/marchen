@@ -75,7 +75,7 @@ Every merfolk diver breathes out in a long, high whistle when they surface. Each
 All names, songs and meanings are invented for the game.
 
 ### Home: Coral Hollow
-Her reef village beyond the drop-off. Shown through letters, memories and dreams: coral towers, a home in a giant shell, her mother's whistle. Its slow dying is why young merfolk are leaving.
+Her reef village beyond the drop-off. Shown through letters, memories and dreams: coral towers, a home in a giant shell, her mother's whistle. It's dying: slowly from warming water, and lately fast from reef torn away in the night. That's why young merfolk are leaving. (The night damage is the Company's secret dredging; see [04](04-world-and-narrative.md).)
 
 ---
 

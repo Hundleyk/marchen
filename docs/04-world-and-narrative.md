@@ -21,7 +21,7 @@ A chain of islands in a warm, shallow sea, with a deep drop-off to the west wher
 | Group | What they want |
 |---|---|
 | **The Shelf community** | To be safe, keep their homes and traditions, and be paid fairly |
-| **The Harbour Pearl Company** | Cheap divers and control of the Pearl Banks |
+| **The Harbour Pearl Company** | Cheap divers, control of the Pearl Banks, and (secretly) the untouched pearl reefs beyond the drop-off, Coral Hollow among them |
 | **Brinehaven Council** | Order, trade, and keeping voters happy |
 | **Townsfolk** | Mixed: some friendly, some fearful, most just busy |
 | **Kelpcrown elders** | For the young to remember the old ways |
@@ -36,26 +36,32 @@ She surfaces at the end of Brinehaven's pier at dawn with a letter of introducti
 ### Act 2 · Work (summer)
 Daily dives on the Pearl Banks. She makes her first human friend, **Ada**, the lighthouse keeper's granddaughter, and learns dockside words. She explores Saltpan Isle and Gull Rock. She notices merfolk divers get the deepest, most dangerous beds and the lowest pay. A merfolk diver is badly hurt on a deep dive the Company ordered. Clues suggest her aunt worked for the Company too.
 
+**First signs:** the Pearl Banks are thinning out, yet the Company's pearl sales keep rising. She notices Company boats heading west past the drop-off at night. A letter from home says another part of the reef was torn away.
+
 **Ends with:** the Lighting of the Water, with the Shelf community joining her.
 
 ### Act 3 · Community (autumn)
 She becomes part of the Shelf: helping rebuild a storm-damaged house, finding a lost child in the sea caves, carrying messages to Kelpcrown Atoll. The merfolk organize, inspired partly by her, to ask the Company for fair pay. In the Drowned Quarter she finds records showing the Shelf cove was promised to the merfolk by the town's founders. Her aunt's trail leads to Ferrow's Reach.
 
-**Ends with:** the Company refuses; tension rises.
+With her new boat (or by swimming the long current west), she follows the Company's night boats past the drop-off and finds a **dredging operation tearing up the reefs beyond it**, heading toward home.
+
+**Ends with:** the Company refuses fair pay, and she now knows the Company is destroying Coral Hollow. Tension rises.
 
 ### Act 4 · Conflict (winter)
-The Company pushes the Council to pass an ordinance moving the merfolk out of the Shelf so the cove can become a new pearl harbour. The festival is banned from the harbour. Some humans stand with the merfolk; others turn cold. She finds her aunt at Ferrow's Reach, living alone and afraid, having been blacklisted after she spoke up years ago.
+The Company pushes the Council to pass an ordinance moving the merfolk out of the Shelf so the cove can become a new pearl harbour. The festival is banned from the harbour. Some humans stand with the merfolk; others turn cold. She finds her aunt at Ferrow's Reach, living alone and afraid. **Maren discovered the dredging years ago,** told the Council, and was blacklisted and threatened into silence. She kept the proof: a Company logbook of the dredge sites.
 
-Choices here matter: who she asks for help, what she reveals from the Drowned Quarter records, whether she speaks at the council hall.
+Now the cove ordinance and the dredging are the same fight: the Company wants the Shelf cove as a new harbour to process the pearls from the far reefs.
+
+Choices here matter: who she asks for help, what she reveals (the founders' charter, Maren's logbook), whether she speaks at the council hall, and whether she quits the Company or stays inside to gather proof.
 
 On winter dives at the drop-off, **marine snow** drifts down through the dark water: a real ocean phenomenon of tiny falling particles that looks like snow. It's the quietest, most beautiful part of the game, and where she goes to think.
 
 **Ends with:** the council vote, decided by the relationships she's built.
 
 ### Act 5 · Belonging (spring again)
-The ordinance is defeated, or delayed and then defeated, depending on choices. The founders' promise is honoured. The Company's merfolk divers win fair pay. Her aunt comes back to the Shelf. At the spring rite she's welcomed as a full diver of the community.
+The ordinance is defeated, or delayed and then defeated, depending on choices. The founders' promise is honoured. The dredging is exposed and stopped; the Company's merfolk divers win fair pay. The warming water can't be undone, but the reef can start to heal, and the town agrees to protect the far reefs. Her aunt comes back to the Shelf. At the spring rite she's welcomed as a full diver of the community.
 
-**Ending:** the whole town lights the water together. She writes home: maybe the young ones from the reef can come here now.
+**Ending:** the whole town lights the water together. She writes home: the reef has a chance now, and the young ones who still need to leave have a place to come to.
 
 ### Optional epilogue
 A new merfolk girl surfaces at the end of the pier at dawn with a letter of introduction, and the hero is the one who goes down to meet her.
@@ -65,7 +71,7 @@ A new merfolk girl surfaces at the end of the pier at dawn with a letter of intr
 | Character | Who they are | Their arc |
 |---|---|---|
 | **Grandmother Wenna** | Eldest merfolk diver; leader of the Warming Ring | Has seen it all; learns to trust the young to lead |
-| **Aunt Maren** | Her aunt; vanished two years ago | Silenced for speaking up; finds her courage again |
+| **Aunt Maren** | Her aunt; vanished two years ago | Found out about the dredging and was silenced; finds her courage again |
 | **Ada** | Lighthouse keeper's granddaughter; first human friend | Wants to see the world beyond the islands; stands up to her own town |
 | **Keeper Holm** | Ada's grandfather; Gull Rock lighthouse | Lost his son to the sea; distrusts merfolk at first, then saves one |
 | **Teodor Vane** | Manager of the Harbour Pearl Company | Not a cartoon villain; a man who thinks of people as costs. Can be reached, or not. |
