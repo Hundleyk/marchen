@@ -2,32 +2,17 @@
 
 ## The Märchen coast
 
-One long, curving shoreline. The sea is to the west; cliffs and forest rise to the east. Five districts sit along the coast from north to south, joined by a beach path that changes with the tide.
-
-### Two worlds
-
-* **Above:** small shore towns of piers, breakwaters, boat sheds, cobbled lanes and lamplit windows. Land people fish the bay and tell old fairy tales.
-* **Below:** **Perlgrund**, Nix's home village on the floor of the bay. Shell-roofed houses, lantern-lit lanes, kelp gardens, a shrine to the tide. Bright and warm; light falls through the water like it falls through leaves.
-
-The two sides trade a little and mistrust a lot. Marriages across the waterline are rare and talked about. Perlgrund is the game's **hub**: Nix returns home between districts, and the village changes as the year goes on.
-
-### The year
-
-The game runs from early summer to winter (see [00 · Tone and feel](00-tone-and-feel.md)). Each finished tale moves the season forward. In winter the sea starts to **snow**: soft white flakes drifting down through the water over Perlgrund.
+One long, curving shoreline. The sea is to the west; cliffs and forest rise to the east. Five districts sit along the coast from north to south, joined by a beach path that changes with the tide. Nix's home, **the Tide Hollow**, is a sea cave at the centre of the coast. The sea-glass ceiling glows with each finished tale.
 
 All source tales are public domain (Grimm, Andersen, Fouqué) and retold freely.
 
 ## Story premise
 
-Tales are how the land talks to the sea. This year the coast's stories began stopping mid-sentence. Nobody on land noticed, because a stuck moment feels like an ordinary pause. But Perlgrund did: without endings, the tide is forgetting when to turn, and the sea is slowly cooling. Nix goes ashore to find out why.
+Tales are how the land talks to the sea. A long time ago the coast's stories began stopping mid-sentence. Nobody on land noticed, because a stuck moment feels like an ordinary pause. But the sea did: without endings, the tide forgot when to turn, and storms began. The sea shaped Nix and sent them ashore.
 
 **What's stopping the stories?** The Glass Deep's sea-witch made a bargain long ago that was never closed, neither kept nor broken. An unfinished bargain at the bottom of the sea leaks into every story on the coast. Each finished tale loosens it; the last district is where Nix finally faces it.
 
 ## Districts
-
-### Festivals
-
-Each district has a seaside festival its stuck tale has been blocking (a lantern float, a boat blessing, a swan return, a well-wedding, the winter tide). Finishing the tale lets the festival happen, and it's the reward scene: the whole town, and sometimes Perlgrund too, comes out together.
 
 ### 1. Nixmill (tutorial) · Grimm, *The Water Nixie*
 * **Place:** a millpond village where a river meets a tidal inlet. Water wheels, reed beds, a fallen bridge.
@@ -67,10 +52,8 @@ Each district has a seaside festival its stuck tale has been blocking (a lantern
 
 The finale has two true endings, chosen by the player's last stance:
 
-* **Soft ending:** Nix offers to carry the bargain's weight instead. The mermaid gets her voice back and a choice; the sea warms, but Nix can never go home to Perlgrund and stays ashore as the coast's tide-keeper.
-* **Strong ending:** Nix breaks the bargain outright. The sea floods the grotto and the witch's power goes back to the deep. Perlgrund sleeps through one long winter under the snow while the sea heals, and Nix goes home to sleep with it, leaving their land friends behind.
-
-**Epilogue (spring):** the coast after the change. Either Nix walks the shore towns, visiting Perlgrund only from the pier; or Perlgrund wakes and Nix surfaces to find their friends older. Both are bittersweet; both are good endings.
+* **Soft ending:** Nix offers to carry the bargain's weight instead. The mermaid gets her voice back and a choice; Nix stays ashore as the coast's tide-keeper.
+* **Strong ending:** Nix breaks the bargain outright. The sea floods the grotto, the witch's power goes back to the deep, and Nix returns to the sea with the mermaid free on the shore.
 
 Neither is framed as better. The final panel of each echoes the motto: *like the ocean, I am both soft and strong.*
 
@@ -78,10 +61,8 @@ Neither is framed as better. The final panel of each echoes the motto: *like the
 
 | Character | Role |
 |---|---|
-| **Old Wend** | A retired lighthouse keeper on the Nixmill breakwater; Nix's first place to stay ashore; teaches land customs; comic relief |
-| **Grandmother Muschel** | Perlgrund's tide-shrine keeper; raised Nix; doesn't want them going ashore |
-| **Teo** | Nix's childhood friend in Perlgrund; resents Nix for leaving; slowly comes around |
+| **Old Wend** | A retired lighthouse keeper in the Tide Hollow; teaches Nix land customs; comic relief |
 | **The Gull Postmaster** | A gull who carries letters between districts; fast-travel and hints |
-| **Mira** | The miller's daughter in Nixmill; Nix's first friend on land; reappears in each district as a "story collector"; quietly in love with the sea, and maybe with Nix |
+| **Mira** | The miller's daughter in Nixmill; first friend; reappears in each district as a "story collector" |
 | **The Nixie** | Nixmill's antagonist turned ally |
 | **The Sea-witch** | Never seen until the end; heard as a voice in Listen mode across the game |

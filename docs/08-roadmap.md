@@ -57,7 +57,7 @@ marchen/
 ## Open questions
 
 1. **Hero name.** Keep *Nix*, or something else?
-2. **The café.** Should there be a seaside café (on the Nixmill breakwater, or in Perlgrund) that doubles as Nix's base between districts (serving villagers whose tales you've finished)?
+2. **The café.** Should the Tide Hollow be a seaside café that doubles as Nix's base between districts (serving villagers whose tales you've finished)?
 3. **Combat.** Keep the Unfinished as avoidance plus Soothe/Scatter, or add a light combo for Strong?
 4. **Platforms.** PC only, or also Steam Deck / mobile?
 5. **Tone of the finale.** Are both endings equal, or is there a hidden third ending for a fully balanced Soft/Strong playthrough?

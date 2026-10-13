@@ -6,11 +6,9 @@
 
 ## High concept
 
-A sea-born spirit from **Perlgrund**, the village under the bay, goes ashore to a coast where the old fairy tales have stopped finishing. Every town is stuck mid-story: the siblings are always about to escape, the swans are always about to land. The hero moves between **Soft** and **Strong**, the two natures of the sea, to raise and lower the tide, reshape the coast, and carry each story to its ending.
+A tide-born spirit washes ashore on a coast where the old fairy tales have stopped finishing. Every village is stuck mid-story: the siblings are always about to escape, the swans are always about to land. The hero moves between **Soft** and **Strong**, the two natures of the sea, to raise and lower the tide, reshape the coast, and carry each story to its ending.
 
-**Pitch:** a gentle, bittersweet seaside adventure in the spirit of *Nagi no Asukara*, where your stamina is the bubbles on your skin and the level geometry is the tide.
-
-**Tone:** quiet, luminous, a little sad. Two worlds on either side of the waterline, one year of slowly changing seasons. See [00 · Tone and feel](00-tone-and-feel.md).
+**Pitch:** a cozy, curious seaside adventure where your stamina is the bubbles on your skin and the level geometry is the tide.
 
 ## Design pillars
 
@@ -18,11 +16,10 @@ A sea-born spirit from **Perlgrund**, the village under the bay, goes ashore to 
 2. **The tide is the level.** One space plays completely differently at ebb and at flood. Tide state is the main puzzle variable.
 3. **Read it on the body.** Resources, stance and mood show on the character (bubbles, fins, expression), not in HUD clutter.
 4. **Stories, not bosses.** You win a district by finishing its tale, not by defeating something.
-5. **Every ending costs a little.** Change is the point; nothing is restored without something being let go.
 
 ## Player fantasy
 
-Being the sea in a person's shape: unhurried and gentle until something matters, then overwhelming. Fixing things by understanding them. Belonging to two worlds and having to choose what to hold onto as both change.
+Being the sea in a person's shape: unhurried and gentle until something matters, then overwhelming. Fixing things by understanding them.
 
 ## Audience
 
@@ -32,9 +29,8 @@ Being the sea in a person's shape: unhurried and gentle until something matters,
 
 ## Comparables
 
-| Work | What we take | What we do differently |
+| Game | What we take | What we do differently |
 |---|---|---|
-| *Nagi no Asukara* (anime) | **Tone touchstone:** sea village and shore town, luminous underwater life, bittersweet change, seasons | Fairy-tale structure; our own world, names and rules |
 | *A Short Hike* | Small, warm, explorable space; light traversal mastery | Tide reshapes the map; story-repair goal |
 | *Breath of the Wild* | Curiosity-driven routes; stamina as traversal limit | Stamina is diegetic (bubbles on the body); no combat focus |
 | *Spiritfarer* | Gentle tone, caring for characters | 3D, puzzle-led, fairy-tale structure |
@@ -49,7 +45,7 @@ Being the sea in a person's shape: unhurried and gentle until something matters,
 
 ## Scope at a glance
 
-* 1 hub (Perlgrund, the sea village) + 5 districts along one shoreline.
+* 1 hub (the hero's tide-side home) + 5 districts along one shoreline.
 * ~5 hours main path, ~8 hours with side threads.
 * Vertical slice target: the tutorial district **Nixmill**, 20–30 minutes. See [05 · Level: Nixmill](05-level-nixmill.md).
 
@@ -57,7 +53,6 @@ Being the sea in a person's shape: unhurried and gentle until something matters,
 
 | Doc | Covers |
 |---|---|
-| [00 · Tone and feel](00-tone-and-feel.md) | The *Nagi no Asukara* feeling: what we take, what we don't, seasonal arc |
 | [02 · Character bible](02-character-bible.md) | The hero: look, personality, voice, expressions, modelling brief |
 | [03 · Core mechanics](03-core-mechanics.md) | Soft/Strong, Breath, tide, Listen, threads, the Unfinished, tuning numbers |
 | [04 · World and narrative](04-world-and-narrative.md) | The coast, the five tales, the ending |
