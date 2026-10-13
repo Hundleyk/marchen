@@ -64,6 +64,9 @@
 * **First barnacle in Brinehaven** grows: a small one, for Wenna's welcome.
 * End of slice: the question of her aunt.
 
+## Balance check
+About 25 minutes in town (pier, streets, Company, Warming Ring) and 25 minutes in the water (arrival swim, the swim to the Shelf, the first dive, the sea caves, the night light). The arrival is underwater, the first steps are on land, and the chapter ends at the waterline.
+
 ## Teaching order
 1. Walk / camera
 2. Swim / surface / dive

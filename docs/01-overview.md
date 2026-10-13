@@ -22,7 +22,7 @@ She arrives with nothing but a letter of introduction. She earns her place as a 
 
 1. **A newcomer's eyes.** The player discovers the town's culture exactly as she does: confused at first, then fluent, then at home.
 2. **Two cultures, both real.** The human town and the merfolk community each have their own customs, language, work and festivals. Neither is the "default."
-3. **The sea is her advantage.** Diving and underwater exploration are what she can do that no one else can, and the heart of the gameplay.
+3. **Two halves, one world: the town and the water.** Players live both lives equally: the busy human town above and the merfolk world below. Each has places, people, work and stories the other doesn't, and the story constantly moves between them. See *Town and water* in [03 · Core mechanics](03-core-mechanics.md).
 4. **Belonging is earned, and shown.** Relationships, words learned and community built show up on her body (new barnacles) and in the town (the festival grows).
 5. **Honest, but hopeful.** The game doesn't pretend prejudice isn't there. The cozy feeling comes from community holding together, not from ignoring hardship.
 

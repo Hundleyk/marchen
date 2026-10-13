@@ -11,7 +11,68 @@ Morning: dive at the turn of the tide (work)
   → New words, new bonds → new barnacles → new places and story beats open
 ```
 
-## 1. Diving (the heart of the game)
+## 0. Town and water: the two halves
+
+Players should experience both lives fully. The town and the water are **equal halves of the game**, not a hub and a level.
+
+**Target split:** about half of play time on land, half in the water.
+
+### One world, no loading
+* The waterline is seamless. She can walk off a pier, dive, swim under the town and climb out somewhere else without a loading screen.
+* Many places exist on **both sides**: the harbour has piers above and pilings, wrecks and lost things below; the Shelf is half stilt-houses, half underwater homes; the Drowned Quarter is an old street that continues under the sea.
+* The camera dips through the surface in one shot; music and sound crossfade between the shore mix and the sea mix.
+
+### What only happens in each half
+
+| In town (above) | In the water (below) |
+|---|---|
+| Human friends, shops, the market, the council hall | Merfolk friends, underwater homes, Kelpcrown Atoll |
+| Getting paid, paying rent, reading the Company's pay board | The dive work itself: pearl beds, salvage, repairs |
+| Learning human customs and dockside words | Learning merfolk customs, currents and rites |
+| Festivals on the pier and in the square | The Spring Current rite at the drop-off |
+| Letters, notice boards, gossip, the harbour bell | Wrecks, sea caves, the Drowned Quarter, Coral Hollow memories |
+| Being treated as an outsider | Being the expert, at home and free |
+
+That last row is the emotional core: on land she's the newcomer who's watched and judged; in the water she's graceful, skilled and free. Players should **feel** that difference in how she moves, the music and how people react.
+
+### How she moves in each
+* **On land:** a little careful at first: slightly unsteady steps, she can't run far, stairs and ladders feel awkward. She grows more confident on land as belonging rises.
+* **In water:** fast, fluid, acrobatic: spins, bursts of speed, riding currents. It should feel like a relief to dive in.
+
+### Who can go where
+* **Humans can't follow her underwater** (except in the shallows with a diving bell or rope, which Rafe and Ada try).
+* **Some merfolk elders rarely come ashore.** To bring them into town stories, she has to carry messages, objects and people between the halves.
+* So **she's the bridge**, literally. Many story beats are about carrying something across the waterline: a letter, a lost heirloom, a word, an invitation, a truth.
+
+### Every story beat crosses the waterline
+Each beat should involve both halves. Examples:
+
+| Beat | Above | Below |
+|---|---|---|
+| A lost wedding ring | A fisher's daughter asks for help on the pier | Search the harbour floor among the pilings |
+| The Drowned Quarter records | The council claims the cove was never promised | Dive into the sunken town hall to find the founders' charter |
+| Corra's anger | Corra is thrown out of a shop | Find her alone at the drop-off; talk |
+| Teaching Ada | Ada wants to see where merfolk live | Take her down in a diving bell to the Shelf's underwater homes |
+| The festival | Invite humans in town | Gather glowing shells from the reef at night |
+
+### Day rhythm between the halves
+* **Morning:** water (dive at the turn of the tide).
+* **Midday:** town (get paid, errands, people).
+* **Afternoon:** player's choice: explore an island above or a zone below.
+* **Evening:** the waterline (the Warming Ring sits right on it).
+* **Night:** either; some events only happen underwater at night (bioluminescence, the Lighting of the Water).
+
+### Each act weighted to both
+
+| Act | Town focus | Water focus |
+|---|---|---|
+| 1 Arrival | First steps on land, the Company, Ada | First dive, the divers' rules, sea caves |
+| 2 Work | Pay, friendships, Saltpan Isle | Pearl Banks, deep dives, the accident |
+| 3 Community | Merfolk organizing, the Company | Kelpcrown, the Drowned Quarter, a lost child |
+| 4 Conflict | The ordinance, the council hall | The founders' charter, Ferrow's Reach coast, the drop-off |
+| 5 Belonging | The vote, the festival in town | The Spring Current rite, the Lighting of the Water |
+
+## 1. Diving (the heart of the water half)
 
 She's merfolk, so she can stay under far longer than any human. But deep, cold water still takes it out of her, and the work is hard.
 
