@@ -6,6 +6,8 @@ One long, curving shoreline. The sea is to the west; cliffs and forest rise to t
 
 All source tales are public domain (Grimm, Andersen, Fouqué) and retold freely.
 
+The towns' customs, food, festivals and daily routines are in [09 · Culture and daily life](09-culture-and-daily-life.md). Finishing a tale lets that district's blocked festival happen.
+
 ## Story premise
 
 Tales are how the land talks to the sea. A long time ago the coast's stories began stopping mid-sentence. Nobody on land noticed, because a stuck moment feels like an ordinary pause. But the sea did: without endings, the tide forgot when to turn, and storms began. The sea shaped Nix and sent them ashore.

@@ -7,7 +7,7 @@
 | **M0** | Design | These docs agreed | Open questions below answered |
 | **M1** | Movement prototype | Feel | Capsule stand-in with WASD, camera, float-jump, Glide, Surge, Soft/Strong switch, Breath (as 24 spheres on the capsule), seawater refill |
 | **M2** | Tide prototype | Core puzzle | Greybox Landing Beach + Tidepools with one tide stone and 3 water levels, one Foamling, one thread with Listen |
-| **M3** | Vertical slice | Show it | Nixmill fully playable (20–30 min) with final hero model, dialogue, expressions, tale ending |
+| **M3** | Vertical slice | Show it | Nixmill fully playable (20–30 min) with final hero model, dialogue, expressions, tale ending, 6 NPCs on routines, the sand market and Wheel Day festival |
 | **M4** | Content | The game | Districts 2–5, the Stopped encounters, music layers, journal |
 | **M5** | Polish | Ship | Accessibility pass, performance, Steam page |
 
@@ -44,6 +44,8 @@ marchen/
 | `beat.gd` | Resource: thread node, soft/strong completion flags, restoration animation |
 | Dialogue | Small custom system or Dialogic 2; choice tags `soft` / `strong` |
 | Kelp skirt | `SpringBoneSimulator3D` chains |
+| `npc_schedule.gd` | Per-NPC routine keyed by tide level + time of day; moves NPCs between waypoints when either changes |
+| `town_state.gd` | Tracks restored beats per town; swaps in finished tale-cloths, shop states, festival decorations |
 
 ## Risks
 

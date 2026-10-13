@@ -20,6 +20,7 @@ A tide-born spirit washes ashore on a coast where the old fairy tales have stopp
 | [06 · UI and UX](docs/06-ui-ux.md) | HUD, menus, dialogue, controls, accessibility |
 | [07 · Art and audio](docs/07-art-audio.md) | Visual style, camera, music, sound |
 | [08 · Roadmap](docs/08-roadmap.md) | Milestones, Godot structure, risks, open questions |
+| [09 · Culture and daily life](docs/09-culture-and-daily-life.md) | Customs, food, trades, festivals, NPC routines, the living world |
 
 ## Status
 
