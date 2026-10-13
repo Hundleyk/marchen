@@ -10,6 +10,8 @@ A tide-born spirit washes ashore on a coast where the old fairy tales have stopp
 
 **Pitch:** a cozy, curious seaside adventure where your stamina is the bubbles on your skin and the level geometry is the tide.
 
+**Mood:** quiet, luminous and a little bittersweet. Sunlight through water, sleepy harbour towns, small moments that matter. The feeling of *Nagi no Asukara* is a mood reference only; the world and story are our own.
+
 ## Design pillars
 
 1. **Soft and strong.** Every problem has a gentle answer and a forceful one. Neither is the "right" one, and the game never punishes either.

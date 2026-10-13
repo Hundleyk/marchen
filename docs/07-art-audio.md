@@ -3,6 +3,8 @@
 ## Visual style
 
 * **Look:** soft watercolour-anime. Toon shading with a two-step ramp, gentle rim light, painted skies.
+* **Mood reference:** the light and atmosphere of *Nagi no Asukara*: bright, shimmering underwater scenes, caustics on sand, harbour towns at golden hour. We borrow the feeling, not the designs.
+* **Underwater is bright, not dark.** God-rays, drifting motes and tiny bubbles; every submerged surface catches moving light.
 * **Palette:** the character palette sets the world's: cream skies, sea greens and navies in the water, coral and blush accents for anything alive or important. Sand gold for the human world (wood, rope, lamplight).
 * **Shape language:** round and flowing for the sea (shells, waves, kelp); upright and angular for the land (mills, roofs, fences); torn and jagged for the Unfinished.
 * **Iridescence** is reserved for things of the sea: Nix's skin, pearls, bubbles, the tide stones.
@@ -34,7 +36,8 @@ Made of torn book pages and sea-foam. Visible handwriting on their bodies that t
 
 ## Music
 
-* **Ensemble:** harp, celesta, cello, glass harmonica, soft voice (wordless).
+* **Ensemble:** piano and strings for the emotional core, with harp, celesta, glass harmonica and soft wordless voice.
+* **Underwater mix:** slightly muffled and reverberant below the surface; crossing the waterline crossfades between the shore and sea mixes.
 * **Layered district themes:** each district theme starts as a single instrument and adds one layer per restored beat. A finished district plays the full arrangement.
 * **Tide song:** each district has a short motif heard in Listen mode; it's the melody of that tale.
 * **Stance colour:** Soft leans harp and celesta; Strong brings in cello and low percussion. The music cross-fades with the stance switch.
